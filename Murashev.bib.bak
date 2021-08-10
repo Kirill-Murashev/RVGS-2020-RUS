@@ -2,18 +2,23 @@
 
 @WWW{RVGS-Rus-TeX-source-res,
   author   = {Kirill A. Murashev},
+  date     = {2021-07-28},
   title    = {RICS Valuation "---~Global Standrards 2020. Russian translation.},
-  date     = {2020-05-26},
-  url      = {hhttps://web.tresorit.com/l/eatYN#JeNaEjs8gkl9uHKgop4OnA},
+  url      = {https://github.com/Kirill-Murashev/RICS-valuation-2020_Global-Rus.git},
   language = {TeX},
 }
 
 @WWW{RVGS-Rus-TeX-source,
   author   = {Kirill A. Murashev},
+  date     = {2021-07-28},
   title    = {RICS Valuation "---~Global Standrards 2020. Russian translation.},
-  date     = {2020-05-26},
-  url      = {hhttps://web.tresorit.com/l/eatYN#JeNaEjs8gkl9uHKgop4OnA},
+  url      = {https://web.tresorit.com/l/oFpJF#xr3UGoxLvszsn4vAaHtjqw},
   language = {TeX},
+}
+
+@WWW{Facebook:Murashev_Kirill,
+  url     = {https://www.facebook.com/murashev.kirill/},
+  urldate = {2021-07-28},
 }
 
 @Comment{jabref-meta: databaseType:biblatex;}

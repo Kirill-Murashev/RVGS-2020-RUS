@@ -159,7 +159,7 @@ status open
 \end_layout
 
 \begin_layout Title
-Версия 0.1911.510
+Версия 0.1911.512
 \end_layout
 
 \begin_layout Subtitle
@@ -263,7 +263,7 @@ thesection
 \end_layout
 
 \begin_layout Left Footer
-0.1911.510
+0.1911.512
 \end_layout
 
 \begin_layout Center Footer
@@ -987,7 +987,7 @@ literal "false"
 \begin_inset CommandInset href
 LatexCommand href
 name "запасной ссылке"
-target "https://github.com/Kirill-Murashev/RICS-valuation-2020_Global-Rus.git"
+target "https://github.com/Kirill-Murashev/RVGS-2020-RUS.git"
 literal "false"
 
 \end_inset
@@ -1311,7 +1311,7 @@ literal "false"
 \begin_inset CommandInset href
 LatexCommand href
 name "запасной ссылке"
-target "https://github.com/Kirill-Murashev/RICS-valuation-2020_Global-Rus.git"
+target "https://github.com/Kirill-Murashev/RVGS-2020-RUS.git"
 literal "false"
 
 \end_inset
@@ -1904,14 +1904,14 @@ name "tab:version_history"
 
 \begin_layout Plain Layout
 \begin_inset Tabular
-<lyxtabular version="3" rows="28" columns="5">
-<features tabularvalignment="middle">
+<lyxtabular version="3" rows="30" columns="5">
+<features islongtable="true" longtabularalignment="center">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
+<column alignment="center" valignment="top" width="0pt">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<row>
+<row endhead="true" endfirsthead="true">
 <cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
 \begin_inset Text
 
@@ -3181,7 +3181,7 @@ KAM
 </cell>
 </row>
 <row>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -3190,7 +3190,7 @@ KAM
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -3199,11 +3199,109 @@ KAM
 
 \end_inset
 </cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
 2021-08-06
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+KAM
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Первая проверка всего текста
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+027
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.1911.511
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2021-08-10
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+KAM
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" leftline="true" rightline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+Исправление нумерации СПО
+\begin_inset space ~
+\end_inset
+
+1
+\end_layout
+
+\end_inset
+</cell>
+</row>
+<row>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+028
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+0.1911.512
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+2021-08-10
 \end_layout
 
 \end_inset
@@ -3221,7 +3319,7 @@ KAM
 \begin_inset Text
 
 \begin_layout Plain Layout
-Первая проверка всего текста
+Стандартизация императивности
 \end_layout
 
 \end_inset
@@ -37609,7 +37707,7 @@ name "4.1.3.1"
 
 \end_inset
 
-Условия 
+ Условия 
 \shape slanted
 договора на
 \begin_inset space ~
@@ -38044,7 +38142,7 @@ name "4.1.3.2"
 
 \end_inset
 
-Каждый пункт далее рассмотрен более подробно.
+ Каждый пункт далее рассмотрен более подробно.
  Ключевые принципы выделены 
 \series bold
 полужирным начертанием
@@ -38253,8 +38351,45 @@ name "subsubsec:4.1.3.1_Identification_and_status_of_the_valuer"
 Реализация.
 \end_layout
 
-\begin_layout Enumerate
-Использование формулировки 
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.1.1"
+
+\end_inset
+
+ Использование формулировки 
 \emph on
 «от
 \begin_inset space ~
@@ -38315,7 +38450,11 @@ name "subsubsec:4.1.3.1_Identification_and_status_of_the_valuer"
 \emph on
 оценщика
 \emph default
-, последний должен обеспечить и
+, при
+\begin_inset space ~
+\end_inset
+
+этом, последний обязан обеспечить и
 \begin_inset space ~
 \end_inset
 
@@ -38356,10 +38495,54 @@ name "subsubsec:4.1.3.1_Identification_and_status_of_the_valuer"
 \end_inset
 
 неё.
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.1.1-End"
+
+\end_inset
+
+
 \end_layout
 
-\begin_layout Enumerate
-Для
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.1.2"
+
+\end_inset
+
+ Для
 \begin_inset space ~
 \end_inset
 
@@ -38453,16 +38636,54 @@ noprefix "false"
 \end_inset
 
 .
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.1.2-End"
+
+\end_inset
+
+
 \end_layout
 
-\begin_layout Enumerate
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
 \begin_inset CommandInset label
 LatexCommand label
 name "4.1.3.1.3"
 
 \end_inset
 
-При
+ При
 \begin_inset space ~
 \end_inset
 
@@ -38548,40 +38769,13 @@ name "4.1.3.1.3"
 \begin_inset space ~
 \end_inset
 
-
-\begin_inset ERT
-status open
-
-\begin_layout Plain Layout
-
-
-\backslash
-hyperref[4.3.2.1-4]{п.~4}
-\end_layout
-
-\end_inset
-
- подсекции
+п.
 \begin_inset space ~
 \end_inset
 
 
 \begin_inset CommandInset ref
-LatexCommand ref
-reference "subsubsec:4.3.2.1_Identification_and_status_of_the_valuer"
-plural "false"
-caps "false"
-noprefix "false"
-
-\end_inset
-
-
-\begin_inset space ~
-\end_inset
-
-
-\begin_inset CommandInset ref
-LatexCommand vpageref
+LatexCommand vref
 reference "4.3.2.1.4"
 plural "false"
 caps "false"
@@ -38670,8 +38864,45 @@ name "4.1.3.1.3-End"
 
 \end_layout
 
-\begin_layout Enumerate
-В части, касающейся вопросов компетенции 
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.1.4"
+
+\end_inset
+
+ В части, касающейся вопросов компетенции 
 \emph on
 оценщика
 \emph default
@@ -38740,6 +38971,13 @@ noprefix "false"
 раскрытие информации
 \emph default
 .
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.1.4-End"
+
+\end_inset
+
+
 \begin_inset CommandInset label
 LatexCommand label
 name "subsubsec:4.1.3.1_Identification_and_status_of_the_valuer-End"
@@ -38829,7 +39067,44 @@ name "subsubsec:4.1.3.2_Identification_of_the_client"
 Реализация.
 \end_layout
 
-\begin_layout Enumerate
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.2.1"
+
+\end_inset
+
 Запросы на
 \begin_inset space ~
 \end_inset
@@ -38870,7 +39145,6 @@ name "subsubsec:4.1.3.2_Identification_of_the_client"
 следующих ситуациях:
 \end_layout
 
-\begin_deeper
 \begin_layout Enumerate
 запрос на
 \begin_inset space ~
@@ -38992,6 +39266,13 @@ name "subsubsec:4.1.3.2_Identification_of_the_client"
 собственника этого имущества, являющегося истинным заказчиком.
 \begin_inset CommandInset label
 LatexCommand label
+name "4.1.3.2.1-End"
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
 name "subsubsec:4.1.3.2_Identification_of_the_client-End"
 
 \end_inset
@@ -38999,7 +39280,6 @@ name "subsubsec:4.1.3.2_Identification_of_the_client-End"
 
 \end_layout
 
-\end_deeper
 \begin_layout Subsubsection
 Сведения об
 \begin_inset space ~
@@ -39067,10 +39347,47 @@ name "subsubsec:4.1.3.3_Identification_of_other_intended_users"
 Реализация.
 \end_layout
 
-\begin_layout Enumerate
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.3.1"
+
+\end_inset
+
 
 \emph on
-Оценщик
+ Оценщик
 \emph default
  должен указать, могут
 \begin_inset space ~
@@ -39089,10 +39406,54 @@ name "subsubsec:4.1.3.3_Identification_of_other_intended_users"
 оценки
 \shape default
 .
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.3.1-End"
+
+\end_inset
+
+
 \end_layout
 
-\begin_layout Enumerate
-Во
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.3.2"
+
+\end_inset
+
+ Во
 \begin_inset space ~
 \end_inset
 
@@ -39126,10 +39487,54 @@ name "subsubsec:4.1.3.3_Identification_of_other_intended_users"
 оценщика
 \emph default
 .
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.3.2-End"
+
+\end_inset
+
+
 \end_layout
 
-\begin_layout Enumerate
-По
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.3.3"
+
+\end_inset
+
+ По
 \begin_inset space ~
 \end_inset
 
@@ -39287,12 +39692,56 @@ status open
 оценщикам
 \emph default
  следует рассмотреть вопрос получения консультации юриста.
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.3.3-End"
+
+\end_inset
+
+
 \end_layout
 
-\begin_layout Enumerate
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.3.4"
+
+\end_inset
+
 
 \emph on
-Оценщики
+ Оценщики
 \emph default
  должны проявлять осторожность при
 \begin_inset space ~
@@ -39360,6 +39809,13 @@ status open
 \end_inset
 
 случаях, когда такая замена стороны договора была разрешена.
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.3.4-End"
+
+\end_inset
+
+
 \begin_inset CommandInset label
 LatexCommand label
 name "subsubsec:4.1.3.3_Identification_of_other_intended_users-End"
@@ -39442,8 +39898,8 @@ status open
 \begin_inset space ~
 \end_inset
 
-этом следует проводить разграничение между активом (обязательством), правом
- на
+этом следует проводить разграничение между активом (обязательством), конкретным
+ правом на
 \begin_inset space ~
 \end_inset
 
@@ -39627,7 +40083,8 @@ status open
 \begin_layout Standard
 
 \series bold
-Отдельное внимание следует уделять выявлению портфелей, коллекций и
+Необходимо уделять отдельное внимание вопросам выявления портфелей, коллекций
+ и
 \begin_inset space ~
 \end_inset
 
@@ -39681,8 +40138,45 @@ status open
 Реализация.
 \end_layout
 
-\begin_layout Enumerate
-В
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.4.1"
+
+\end_inset
+
+ В
 \begin_inset space ~
 \end_inset
 
@@ -39690,7 +40184,7 @@ status open
 \begin_inset space ~
 \end_inset
 
-обязательства следует описать существующие на
+обязательства необходимо привести описание существующих на
 \begin_inset space ~
 \end_inset
 
@@ -39698,7 +40192,7 @@ status open
 \begin_inset space ~
 \end_inset
 
-права.
+прав.
  Необходимо проводить разграничение и
 \begin_inset space ~
 \end_inset
@@ -39728,10 +40222,54 @@ status open
 этот актив
 \emph default
 .
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.4.1-End"
+
+\end_inset
+
+
 \end_layout
 
-\begin_layout Enumerate
-При 
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.4.2"
+
+\end_inset
+
+ При 
 \shape slanted
 оценке
 \shape default
@@ -39796,14 +40334,62 @@ status open
 \end_inset
 
 данного объекта.
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.4.2-End"
+
+\end_inset
+
+
 \end_layout
 
-\begin_layout Enumerate
-При
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.4.3"
+
+\end_inset
+
+ При
 \begin_inset space ~
 \end_inset
 
-оценке доли в
+
+\shape slanted
+оценке
+\shape default
+ доли в
 \begin_inset space ~
 \end_inset
 
@@ -39811,8 +40397,12 @@ status open
 \begin_inset space ~
 \end_inset
 
-недвижимое имущество, оценщику также следует установить степень контроля,
- которую предоставляет оцениваемый размер доли, и
+недвижимое имущество, 
+\emph on
+оценщику
+\emph default
+ также следует установить степень контроля, которую предоставляет оцениваемый
+ размер доли, и
 \begin_inset space ~
 \end_inset
 
@@ -39827,10 +40417,54 @@ status open
 \end_inset
 
 продаже такого актива).
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.4.3-End"
+
+\end_inset
+
+
 \end_layout
 
-\begin_layout Enumerate
-При
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.4.4"
+
+\end_inset
+
+ При
 \begin_inset space ~
 \end_inset
 
@@ -39854,7 +40488,7 @@ status open
 \shape slanted
 оценки
 \shape default
- следует сформировать «лот на
+ необходимо сформировать «лот на
 \begin_inset space ~
 \end_inset
 
@@ -39875,7 +40509,11 @@ status open
 \begin_inset space ~
 \end_inset
 
-заказчиком, фиксировать их
+заказчиком, в
+\begin_inset space ~
+\end_inset
+
+обязательном порядке фиксировать их
 \begin_inset space ~
 \end_inset
 
@@ -39908,10 +40546,54 @@ status open
 оценке
 \emph default
 .
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.4.4-End"
+
+\end_inset
+
+
 \end_layout
 
-\begin_layout Enumerate
-Дополнительные руководства по
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.4.5"
+
+\end_inset
+
+ Дополнительные руководства по
 \begin_inset space ~
 \end_inset
 
@@ -39988,10 +40670,54 @@ noprefix "false"
 \end_inset
 
 .
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.4.5-End"
+
+\end_inset
+
+
 \end_layout
 
-\begin_layout Enumerate
-В
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.4.6"
+
+\end_inset
+
+ В
 \begin_inset space ~
 \end_inset
 
@@ -40054,7 +40780,7 @@ noprefix "false"
 .
 \begin_inset CommandInset label
 LatexCommand label
-name "subsubsec:4.1.3.4_Identification_of_the asset_or_liability-End"
+name "4.1.3.4.6-End"
 
 \end_inset
 
@@ -40075,7 +40801,7 @@ name "subsubsec:4.1.3.5_Valuation_currency"
 \begin_layout Standard
 
 \series bold
-Следует указывать валюту, в
+Необходимо указывать валюту, в
 \begin_inset space ~
 \end_inset
 
@@ -40122,8 +40848,45 @@ name "subsubsec:4.1.3.5_Valuation_currency"
 Реализация.
 \end_layout
 
-\begin_layout Enumerate
-Если результаты 
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.5.1"
+
+\end_inset
+
+ Если результаты 
 \shape slanted
 оценки
 \shape default
@@ -40140,7 +40903,14 @@ name "subsubsec:4.1.3.5_Valuation_currency"
 \end_inset
 
 которой расположен оцениваемый актив, порядок определения обменного курса
- подлежит согласованию.
+ подлежит обязательному согласованию.
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.5.1-End"
+
+\end_inset
+
+
 \begin_inset CommandInset label
 LatexCommand label
 name "subsubsec:4.1.3.5_Valuation_currency-End"
@@ -40223,10 +40993,47 @@ name "subsubsec:4.1.3.6_Purpose_of_the_valuation"
 Реализация.
 \end_layout
 
-\begin_layout Enumerate
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.6.1"
+
+\end_inset
+
 
 \emph on
-Оценщикам
+ Оценщикам
 \emph default
  следует понимать, что
 \begin_inset space ~
@@ -40261,7 +41068,7 @@ name "subsubsec:4.1.3.6_Purpose_of_the_valuation"
 \begin_inset space ~
 \end_inset
 
-следует в
+необходимо в
 \begin_inset space ~
 \end_inset
 
@@ -40307,10 +41114,54 @@ name "subsubsec:4.1.3.6_Purpose_of_the_valuation"
 третьей стороне
 \shape default
 .
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.6.1-End"
+
+\end_inset
+
+
 \end_layout
 
-\begin_layout Enumerate
-В
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.6.2"
+
+\end_inset
+
+ В
 \begin_inset space ~
 \end_inset
 
@@ -40361,6 +41212,13 @@ name "subsubsec:4.1.3.6_Purpose_of_the_valuation"
 заказчиком.
 \begin_inset CommandInset label
 LatexCommand label
+name "4.1.3.6.2-End"
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
 name "subsubsec:4.1.3.6_Purpose_of_the_valuation-End"
 
 \end_inset
@@ -40393,7 +41251,7 @@ name "subsec:4.1.3.7_Basis_of_value"
 оценки
 \shape default
 .
- Следует приводить ссылку на
+ Необходимо приводить ссылку на
 \begin_inset space ~
 \end_inset
 
@@ -40463,8 +41321,45 @@ name "subsec:4.1.3.7_Basis_of_value"
 Реализация.
 \end_layout
 
-\begin_layout Enumerate
-В
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.7.1"
+
+\end_inset
+
+ В
 \begin_inset space ~
 \end_inset
 
@@ -40576,18 +41471,70 @@ literal "false"
 \end_inset
 
 своему усмотрению.
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.7.1-End"
+
+\end_inset
+
+
 \end_layout
 
-\begin_layout Enumerate
-В
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.7.2"
+
+\end_inset
+
+ В
 \begin_inset space ~
 \end_inset
 
-ряде случаев проведения оценки, например для
+ряде случаев проведения 
+\shape slanted
+оценки
+\shape default
+, например для
 \begin_inset space ~
 \end_inset
 
-целей финансовой отчётности согласно 
+целей 
+\shape slanted
+финансовой отчётности
+\shape default
+, составляемой согласно 
 \begin_inset CommandInset href
 LatexCommand href
 name "МСФО"
@@ -40664,10 +41611,54 @@ literal "false"
 оценщика
 \emph default
 .
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.7.2-End"
+
+\end_inset
+
+
 \end_layout
 
-\begin_layout Enumerate
-RICS признаёт, что
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.7.3"
+
+\end_inset
+
+ RICS признаёт, что
 \begin_inset space ~
 \end_inset
 
@@ -40758,6 +41749,13 @@ noprefix "false"
 ).
 \begin_inset CommandInset label
 LatexCommand label
+name "4.1.3.7.3-End"
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
 name "subsec:4.1.3.7_Basis_of_value-End"
 
 \end_inset
@@ -40824,8 +41822,45 @@ name "subsubsec:4.1.3.8_Valuation_date"
 Реализация.
 \end_layout
 
-\begin_layout Enumerate
-Конкретная 
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.8.1"
+
+\end_inset
+
+ Конкретная 
 \shape slanted
 дата оценки
 \shape default
@@ -40868,10 +41903,54 @@ status open
 отчёта
 \emph default
 , является неприемлемым.
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.8.1-End"
+
+\end_inset
+
+
 \end_layout
 
-\begin_layout Enumerate
-В
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.8.2"
+
+\end_inset
+
+ В
 \begin_inset space ~
 \end_inset
 
@@ -40971,6 +42050,13 @@ noprefix "false"
 \end_inset
 
 .
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.8.2-End"
+
+\end_inset
+
+
 \begin_inset CommandInset label
 LatexCommand label
 name "subsubsec:4.1.3.8_Valuation_date-End"
@@ -41129,8 +42215,45 @@ name "subsubsec:4.1.3.9_Nature_and_extent_of_the_valuer’s_work"
 Реализация.
 \end_layout
 
-\begin_layout Enumerate
-Заказчик может запросить оказание услуги в
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.9.1"
+
+\end_inset
+
+ Заказчик может запросить оказание услуги в
 \begin_inset space ~
 \end_inset
 
@@ -41350,10 +42473,54 @@ noprefix "false"
 \end_inset
 
 .
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.9.1-End"
+
+\end_inset
+
+
 \end_layout
 
-\begin_layout Enumerate
-RICS допускает, что
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.9.2"
+
+\end_inset
+
+ RICS допускает, что
 \begin_inset space ~
 \end_inset
 
@@ -41392,12 +42559,56 @@ RICS допускает, что
 \end_inset
 
 ходу».
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.9.2-End"
+
+\end_inset
+
+
 \end_layout
 
-\begin_layout Enumerate
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.9.3"
+
+\end_inset
+
 
 \emph on
-Оценщику
+ Оценщику
 \emph default
  следует рассмотреть вопрос обоснованности ограничения с
 \begin_inset space ~
@@ -41437,10 +42648,54 @@ RICS допускает, что
 третьим лицам
 \shape default
 .
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.9.3-End"
+
+\end_inset
+
+
 \end_layout
 
-\begin_layout Enumerate
-Если 
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.9.4"
+
+\end_inset
+
+ Если 
 \emph on
 оценщик
 \emph default
@@ -41461,18 +42716,62 @@ RICS допускает, что
 \end_inset
 
 принятия оценочного задания.
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.9.4-End"
+
+\end_inset
+
+
 \end_layout
 
-\begin_layout Enumerate
-В
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.9.5"
+
+\end_inset
+
+ В
 \begin_inset space ~
 \end_inset
 
 случае подтверждения принятия такого оценочного задания 
 \emph on
-оценщику
+оценщик
 \emph default
- следует чётко описать в
+ обязан чётко описать в
 \begin_inset space ~
 \end_inset
 
@@ -41561,10 +42860,54 @@ noprefix "false"
 \end_inset
 
 ).
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.9.5-End"
+
+\end_inset
+
+
 \end_layout
 
-\begin_layout Enumerate
-Раздел
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.9.6"
+
+\end_inset
+
+ Раздел
 \begin_inset space ~
 \end_inset
 
@@ -41627,6 +42970,13 @@ noprefix "false"
 .
 \begin_inset CommandInset label
 LatexCommand label
+name "4.1.3.9.6-End"
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
 name "subsubsec:4.1.3.9_Nature_and_extent_of_the_valuer’s_work-End"
 
 \end_inset
@@ -41656,11 +43006,15 @@ name "subsubsec:4.1.3.10_Nature_and_sources_of_information"
 \begin_inset space ~
 \end_inset
 
-источники соответствующей информации, а
+источники соответствующих информации и
 \begin_inset space ~
 \end_inset
 
-также степень её
+данных, а
+\begin_inset space ~
+\end_inset
+
+также степень их
 \begin_inset space ~
 \end_inset
 
@@ -41672,7 +43026,7 @@ name "subsubsec:4.1.3.10_Nature_and_sources_of_information"
 \shape slanted
 оценки
 \shape default
-, следует определить и
+, необходимо определить и
 \begin_inset space ~
 \end_inset
 
@@ -41844,8 +43198,45 @@ noprefix "false"
 Реализация.
 \end_layout
 
-\begin_layout Enumerate
-В
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.10.1"
+
+\end_inset
+
+ В
 \begin_inset space ~
 \end_inset
 
@@ -41947,10 +43338,54 @@ noprefix "false"
 \end_inset
 
 рамки.
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.10.1-End"
+
+\end_inset
+
+
 \end_layout
 
-\begin_layout Enumerate
-Заказчик может ожидать, что
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.10.2"
+
+\end_inset
+
+ Заказчик может ожидать, что
 \begin_inset space ~
 \end_inset
 
@@ -41991,7 +43426,7 @@ noprefix "false"
 \emph on
 оценщику
 \emph default
- следует обозначить в
+ необходимо обозначить в
 \begin_inset space ~
 \end_inset
 
@@ -42037,6 +43472,13 @@ noprefix "false"
 \end_inset
 
 назначению либо публично обнародован.
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.10.2-End"
+
+\end_inset
+
+ 
 \begin_inset CommandInset label
 LatexCommand label
 name "subsubsec:4.1.3.10_Nature_and_sources_of_information-End"
@@ -42254,10 +43696,47 @@ status open
 Реализация.
 \end_layout
 
-\begin_layout Enumerate
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.11.1"
+
+\end_inset
+
 
 \shape slanted
-Специальные допущения
+ Специальные допущения
 \shape default
  зачастую используются для
 \begin_inset space ~
@@ -42275,7 +43754,6 @@ status open
 :
 \end_layout
 
-\begin_deeper
 \begin_layout Itemize
 предполагаемое строительство было завершено на
 \begin_inset space ~
@@ -42326,11 +43804,54 @@ status open
 \end_inset
 
 бы использовалась участником рынка.
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.11.1-End"
+
+\end_inset
+
+
 \end_layout
 
-\end_deeper
-\begin_layout Enumerate
-Дальнейшие указания применительно к
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.11.2"
+
+\end_inset
+
+ Дальнейшие указания применительно к
 \begin_inset space ~
 \end_inset
 
@@ -42429,6 +43950,13 @@ noprefix "false"
 .
 \begin_inset CommandInset label
 LatexCommand label
+name "4.3.1.11.2-End"
+
+\end_inset
+
+ 
+\begin_inset CommandInset label
+LatexCommand label
 name "subsubsec:4.1.3.11_Assumptions_and_special_assumptions-End"
 
 \end_inset
@@ -42490,8 +44018,45 @@ name "subsubsec:4.1.3.12_Format_of_the_report"
 Реализация.
 \end_layout
 
-\begin_layout Enumerate
-Раздел
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.12.1"
+
+\end_inset
+
+ Раздел
 \begin_inset space ~
 \end_inset
 
@@ -42657,12 +44222,56 @@ noprefix "false"
 оценки
 \shape default
 .
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.12.1-End"
+
+\end_inset
+
+
 \end_layout
 
-\begin_layout Enumerate
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.12.2"
+
+\end_inset
+
 
 \emph on
-Отчёт об
+ Отчёт об
 \begin_inset space ~
 \end_inset
 
@@ -42732,7 +44341,15 @@ noprefix "false"
 \begin_inset space ~
 \end_inset
 
-следует обозначать как
+может быть и
+\begin_inset space ~
+\end_inset
+
+обозначен и
+\begin_inset space ~
+\end_inset
+
+называться как
 \begin_inset space ~
 \end_inset
 
@@ -42748,7 +44365,7 @@ noprefix "false"
 \begin_inset Quotes rld
 \end_inset
 
-декларацию стоимости
+декларация стоимости
 \begin_inset Quotes rrd
 \end_inset
 
@@ -42793,17 +44410,54 @@ noprefix "false"
 .
 \begin_inset CommandInset label
 LatexCommand label
-name "subsubsec:4.1.3.12_Format_of_the_report-End"
+name "4.1.3.12.2-End"
 
 \end_inset
 
 
 \end_layout
 
-\begin_layout Enumerate
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.12.3"
+
+\end_inset
+
 
 \emph on
-Оценщикам
+ Оценщикам
 \emph default
  следует знать о
 \begin_inset space ~
@@ -42891,7 +44545,14 @@ name "subsubsec:4.1.3.12_Format_of_the_report-End"
 силу закона.
 \begin_inset CommandInset label
 LatexCommand label
-name "enu:Оценщикам-следует-знатьsubsubsec:4.1.3.12_Format_of_the_report-End"
+name "4.1.3.12.3-End"
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "subsubsec:4.1.3.12_Format_of_the_report-End"
 
 \end_inset
 
@@ -42966,10 +44627,47 @@ name "subsubsec:4.1.3.13_Restrictions_on_use_of_the_report"
 Реализация.
 \end_layout
 
-\begin_layout Enumerate
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.13.1"
+
+\end_inset
+
 
 \emph on
-Оценщик
+ Оценщик
 \emph default
  обязан привести сведения о
 \begin_inset space ~
@@ -42992,10 +44690,54 @@ name "subsubsec:4.1.3.13_Restrictions_on_use_of_the_report"
 оценке
 \emph default
 .
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.13.1-End"
+
+\end_inset
+
+
 \end_layout
 
-\begin_layout Enumerate
-Ограничения имеют силу только в
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.13.2"
+
+\end_inset
+
+ Ограничения имеют силу только в
 \begin_inset space ~
 \end_inset
 
@@ -43008,12 +44750,56 @@ name "subsubsec:4.1.3.13_Restrictions_on_use_of_the_report"
 \end_inset
 
 них.
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.13.2-End"
+
+\end_inset
+
+
 \end_layout
 
-\begin_layout Enumerate
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.13.3"
+
+\end_inset
+
 
 \emph on
-Оценщику
+ Оценщику
 \emph default
  следует иметь ввиду, что
 \begin_inset space ~
@@ -43115,10 +44901,54 @@ name "subsubsec:4.1.3.13_Restrictions_on_use_of_the_report"
 \end_inset
 
 выполнение оценочного задания.
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.13.3-End"
+
+\end_inset
+
+
 \end_layout
 
-\begin_layout Enumerate
-В
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.13.4"
+
+\end_inset
+
+ В
 \begin_inset space ~
 \end_inset
 
@@ -43165,10 +44995,54 @@ name "subsubsec:4.1.3.13_Restrictions_on_use_of_the_report"
 оценщика
 \emph default
 .
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.13.4-End"
+
+\end_inset
+
+
 \end_layout
 
-\begin_layout Enumerate
-Особое внимание вопросам ответственности перед 
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.13.5"
+
+\end_inset
+
+ Особое внимание вопросам ответственности перед 
 \shape slanted
 третьими лицами
 \shape default
@@ -43185,6 +45059,13 @@ name "subsubsec:4.1.3.13_Restrictions_on_use_of_the_report"
 \end_inset
 
 целей залогового кредитования.
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.13.5-End"
+
+\end_inset
+
+
 \begin_inset CommandInset label
 LatexCommand label
 name "subsubsec:4.1.3.13_Restrictions_on_use_of_the_report-End"
@@ -43494,8 +45375,45 @@ literal "false"
 Реализация.
 \end_layout
 
-\begin_layout Enumerate
-Существенная разница между двумя вышеуказанными способами подтверждения
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.14.1"
+
+\end_inset
+
+ Существенная разница между двумя вышеуказанными способами подтверждения
  соответствия отсутствует, они
 \begin_inset space ~
 \end_inset
@@ -43630,10 +45548,54 @@ literal "false"
 \end_inset
 
 данным профессиональным стандартам RICS.
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.14.1-End"
+
+\end_inset
+
+
 \end_layout
 
-\begin_layout Enumerate
-Под
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.14.2"
+
+\end_inset
+
+ Под
 \begin_inset space ~
 \end_inset
 
@@ -43703,10 +45665,54 @@ RVGS/RBG без
 \end_inset
 
 части определения применимой версии RVGS/RBG.
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.14.2-End"
+
+\end_inset
+
+
 \end_layout
 
-\begin_layout Enumerate
-Заявление о
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.14.3"
+
+\end_inset
+
+ Заявление о
 \begin_inset space ~
 \end_inset
 
@@ -43822,10 +45828,54 @@ literal "false"
 \end_inset
 
 .
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.14.3-End"
+
+\end_inset
+
+
 \end_layout
 
-\begin_layout Enumerate
-В
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.14.4"
+
+\end_inset
+
+ В
 \begin_inset space ~
 \end_inset
 
@@ -43851,6 +45901,13 @@ literal "false"
 проведение оценки
 \shape default
 .
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.14.4-End"
+
+\end_inset
+
+
 \begin_inset CommandInset label
 LatexCommand label
 name "subsubsec:4.1.3.14_Confirmation_accordance_with_the_IVS-End"
@@ -43881,8 +45938,49 @@ name "subsubsec:4.1.3.15_The_basis_of_the_fee"
 Реализация.
 \end_layout
 
-\begin_layout Enumerate
-Размер вознаграждения за
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.15.1"
+
+\end_inset
+
+ 
+\bar under
+Размер вознаграждения
+\bar default
+ за
 \begin_inset space ~
 \end_inset
 
@@ -43902,7 +46000,11 @@ name "subsubsec:4.1.3.15_The_basis_of_the_fee"
 \begin_inset space ~
 \end_inset
 
-исключением случаев, когда он
+исключением случаев, когда 
+\bar under
+он
+\bar default
+
 \begin_inset space ~
 \end_inset
 
@@ -43917,6 +46019,13 @@ name "subsubsec:4.1.3.15_The_basis_of_the_fee"
 \end_inset
 
 публикует какие-либо рекомендованные значения размера вознаграждения.
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.15.1-End"
+
+\end_inset
+
+
 \begin_inset CommandInset label
 LatexCommand label
 name "subsubsec:4.1.3.15_The_basis_of_the_fee-End"
@@ -43959,8 +46068,45 @@ name "subsubsec:4.1.3.16_Firm’s_complaints_handling_procedure"
 Реализация.
 \end_layout
 
-\begin_layout Enumerate
-Включение данного пункта призвано акцентировать внимание на
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.16.1"
+
+\end_inset
+
+ Включение данного пункта призвано акцентировать внимание на
 \begin_inset space ~
 \end_inset
 
@@ -43998,6 +46144,13 @@ literal "false"
 
 \shape default
 .
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.16.1-End"
+
+\end_inset
+
+
 \begin_inset CommandInset label
 LatexCommand label
 name "subsubsec:4.1.3.16_Firm’s_complaints_handling_procedure-End"
@@ -44044,8 +46197,45 @@ name "subsubsec:4.1.3.17_Compliance_with_RICS_conduct_regulations"
 Реализация.
 \end_layout
 
-\begin_layout Enumerate
-Заявление о
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.17.1"
+
+\end_inset
+
+ Заявление о
 \begin_inset space ~
 \end_inset
 
@@ -44083,10 +46273,54 @@ literal "false"
 \end_inset
 
 .
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.17.1-End"
+
+\end_inset
+
+
 \end_layout
 
-\begin_layout Enumerate
-Руководство по
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.17.2"
+
+\end_inset
+
+ Руководство по
 \begin_inset space ~
 \end_inset
 
@@ -44145,10 +46379,54 @@ literal "false"
 \end_inset
 
 .
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.17.2-End"
+
+\end_inset
+
+
 \end_layout
 
-\begin_layout Enumerate
-Заказчикам следует иметь в
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.17.3"
+
+\end_inset
+
+ Заказчикам следует иметь в
 \begin_inset space ~
 \end_inset
 
@@ -44264,7 +46542,7 @@ noprefix "false"
 .
 \begin_inset CommandInset label
 LatexCommand label
-name "subsubsec:4.1.3.17_Compliance_with_RICS_conduct_regulations-End"
+name "4.1.3.17.3-End"
 
 \end_inset
 
@@ -44286,6 +46564,47 @@ name "subsubsec:4.1.3.18_Statement_setting_limitations_on_liability"
 
 \series bold
 Реализация.
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+stepcounter{SubSubSecCounter}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thesubsubsection.
+\backslash
+theSubSubSecCounter.
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.18.1"
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -44348,6 +46667,13 @@ literal "false"
 \end_inset
 
 .
+\begin_inset CommandInset label
+LatexCommand label
+name "4.1.3.18.1-End"
+
+\end_inset
+
+
 \begin_inset CommandInset label
 LatexCommand label
 name "subsubsec:4.1.3.18_Statement_setting_limitations_on_liability-End"
@@ -44509,7 +46835,7 @@ name "subsec:4.2.1_Inspections_and_investigations"
 \begin_inset space ~
 \end_inset
 
-всех случаях следует осуществлять в
+всех случаях необходимо осуществлять в
 \begin_inset space ~
 \end_inset
 
@@ -44517,7 +46843,7 @@ name "subsec:4.2.1_Inspections_and_investigations"
 \begin_inset space ~
 \end_inset
 
-какой это
+которой это
 \begin_inset space ~
 \end_inset
 
@@ -44980,11 +47306,11 @@ name "4.2.1.1"
 
 \end_inset
 
-В
+ В
 \begin_inset space ~
 \end_inset
 
-процессе согласования условий 
+процессе утверждения условий 
 \shape slanted
 договора на
 \begin_inset space ~
@@ -44996,7 +47322,7 @@ name "4.2.1.1"
 \emph on
 оценщику
 \emph default
- следует согласовать в
+ необходимо согласовать в
 \begin_inset space ~
 \end_inset
 
@@ -45138,7 +47464,7 @@ name "4.2.1.2"
 
 \end_inset
 
-При определении объёма необходимых сведений, имеющих доказательное значения
+ При определении объёма необходимых сведений, имеющих доказательное значения
  для
 \begin_inset space ~
 \end_inset
@@ -45176,7 +47502,7 @@ name "4.2.1.2"
 \emph on
 оценщику
 \emph default
- следует выносить суждение по
+ необходимо выносить суждение по
 \begin_inset space ~
 \end_inset
 
@@ -45256,7 +47582,7 @@ name "4.2.1.3"
 
 \end_inset
 
-При
+ При
 \begin_inset space ~
 \end_inset
 
@@ -45370,7 +47696,7 @@ noprefix "false"
 \begin_inset space ~
 \end_inset
 
-оказываемую оценочную консультацию, вследствие чего данный риск следует
+оказываемую оценочную консультацию, вследствие чего данный риск необходимо
  детально изучить до
 \begin_inset space ~
 \end_inset
@@ -45483,7 +47809,7 @@ name "4.2.1.4"
 
 \end_inset
 
-В
+ В
 \begin_inset space ~
 \end_inset
 
@@ -45491,11 +47817,12 @@ name "4.2.1.4"
 \begin_inset space ~
 \end_inset
 
-случаях, когда необходимо провести либо проверить измерения, 
+случаях, когда существует потребность провести либо проверить измерения,
+ 
 \shape slanted
 членам RICS
 \shape default
- следует, там
+ необходимо, там
 \begin_inset space ~
 \end_inset
 
@@ -45598,7 +47925,7 @@ name "4.2.1.5"
 
 \end_inset
 
-Раздел
+ Раздел
 \begin_inset space ~
 \end_inset
 
@@ -45783,7 +48110,11 @@ name "4.2.1.6"
 
 \end_inset
 
-Оценщику следует принимать разумные меры для
+ 
+\emph on
+Оценщику
+\emph default
+ необходимо принимать разумные меры для
 \begin_inset space ~
 \end_inset
 
@@ -46078,7 +48409,7 @@ name "4.2.1.7"
 
 \end_inset
 
-В
+ В
 \begin_inset space ~
 \end_inset
 
@@ -46289,7 +48620,7 @@ name "4.2.1.8"
 
 \end_inset
 
-В
+ В
 \begin_inset space ~
 \end_inset
 
@@ -46456,11 +48787,11 @@ name "4.2.1.9"
 
 \end_inset
 
-Поскольку 
+ Поскольку 
 \emph on
-оценщик
+оценщику
 \emph default
- обязан проявлять должную осмотрительность при
+ следует проявлять должную осмотрительность при
 \begin_inset space ~
 \end_inset
 
@@ -46605,7 +48936,7 @@ name "4.2.1.10"
 
 
 \emph on
-Оценщик
+ Оценщик
 \emph default
 , соответствующий требованиям, установленным подразделом
 \begin_inset space ~
@@ -47072,7 +49403,11 @@ name "4.2.2.2"
 
 проведение оценки
 \shape default
- должны содержать соответствующее допущение.
+ должны содержать соответствующее 
+\shape slanted
+допущение
+\shape default
+.
 \begin_inset CommandInset label
 LatexCommand label
 name "4.2.2.2-End"
@@ -47124,7 +49459,7 @@ name "4.2.2.3"
 \emph on
  Оценщик
 \emph default
- должен получить от
+ обязан получить от
 \begin_inset space ~
 \end_inset
 
@@ -47530,7 +49865,11 @@ name "subsec:4.2.3_Valuation_records"
 \begin_inset space ~
 \end_inset
 
-сбора ключевой исходной информации, должны вестись в
+сбора ключевой исходной информации и
+\begin_inset space ~
+\end_inset
+
+данных, должны вестись в
 \begin_inset space ~
 \end_inset
 
@@ -47589,11 +49928,11 @@ name "4.2.3.1"
 \begin_inset space ~
 \end_inset
 
-других исследований, подлежат чёткой и
+других исследований, подлежат обязательной чёткой и
 \begin_inset space ~
 \end_inset
 
-аккуратной фиксации таким образом, чтобы они
+аккуратной фиксации, осуществляемой таким образом, чтобы они
 \begin_inset space ~
 \end_inset
 
@@ -48607,7 +50946,11 @@ noprefix "false"
 
 \end_inset
 
-, данный вопрос подлежит чёткому урегулированию либо в
+, данный вопрос в
+\begin_inset space ~
+\end_inset
+
+обязательном порядке подлежит чёткому урегулированию либо в
 \begin_inset space ~
 \end_inset
 
@@ -48826,7 +51169,7 @@ name "4.3.1.3"
 \begin_inset space ~
 \end_inset
 
-должен рассматриваться в
+может рассматриваться в
 \begin_inset space ~
 \end_inset
 
@@ -49881,7 +52224,7 @@ name "subsubsec:4.3.2.1_Identification_and_status_of_the_valuer"
 \emph on
 отчёте
 \emph default
- следует указать характер такого содействия, а
+ необходимо указать характер такого содействия, а
 \begin_inset space ~
 \end_inset
 
@@ -50067,8 +52410,8 @@ name "4.3.2.1.2"
 \begin_inset space ~
 \end_inset
 
-всех случаях следует ясно указывать профессиональный статус (например MRICS)
- либо иное обозначение соответствующей профессиональной квалификации.
+всех случаях необходимо ясно указывать профессиональный статус (например
+ MRICS) либо иное обозначение соответствующей профессиональной квалификации.
 \begin_inset CommandInset label
 LatexCommand label
 name "4.3.2.1.2-End"
@@ -50229,7 +52572,7 @@ noprefix "false"
 \begin_inset space ~
 \end_inset
 
-таких случаях следует приводить в
+таких случаях необходимо приводить в
 \begin_inset space ~
 \end_inset
 
@@ -50295,7 +52638,7 @@ hyperref[chap:2_Glossary]{Глоссарии}
 \begin_inset space ~
 \end_inset
 
-подлежат включению в
+подлежат обязательному включению в
 \begin_inset space ~
 \end_inset
 
@@ -50391,7 +52734,7 @@ name "4.3.2.1.4"
 \begin_inset space ~
 \end_inset
 
-будущем следует применять положения параграфа
+будущем необходимо применять положения параграфа
 \begin_inset space ~
 \end_inset
 
@@ -50634,7 +52977,7 @@ noprefix "false"
 \begin_inset space ~
 \end_inset
 
-этом также подлежит включению в
+этом также подлежит обязательному включению в
 \begin_inset space ~
 \end_inset
 
@@ -51120,7 +53463,7 @@ name "subsubsec:4.3.2.2_Identification_of_other_intended_users"
 \begin_layout Standard
 
 \series bold
-Следует привести сведения о
+Необходимо привести сведения о
 \begin_inset space ~
 \end_inset
 
@@ -51294,7 +53637,7 @@ name "4.3.2.2.1"
 \begin_inset space ~
 \end_inset
 
-конечном пользователе подлежат раскрытию.
+конечном пользователе подлежат обязательному раскрытию.
  Также следует привести сведения обо
 \begin_inset space ~
 \end_inset
@@ -51527,7 +53870,7 @@ name "subsubsec:4.3.2.3_Purpose_ of_the_valuation"
 \shape slanted
 оценки
 \shape default
- следует указывать в
+ необходимо указывать в
 \begin_inset space ~
 \end_inset
 
@@ -51602,11 +53945,11 @@ name "4.3.2.3.1"
 
 оценке
 \emph default
- не
+ должен не
 \begin_inset space ~
 \end_inset
 
-должен допускать его
+допускать его
 \begin_inset space ~
 \end_inset
 
@@ -51868,7 +54211,7 @@ name "subsubsec:4.3.2.4_Identification_of_the_asset_or_liability"
 \begin_layout Standard
 
 \series bold
-Следует уделять особое внимание описанию портфелей, коллекций и
+Необходимо уделять особое внимание описанию портфелей, коллекций и
 \begin_inset space ~
 \end_inset
 
@@ -52292,7 +54635,11 @@ name "4.3.2.4.4"
 \begin_inset space ~
 \end_inset
 
-получить от
+в
+\begin_inset space ~
+\end_inset
+
+обязательном порядке получить от
 \begin_inset space ~
 \end_inset
 
@@ -52453,7 +54800,13 @@ name "subsubsec:4.3.2.5_Basis_of_value"
 оценке
 \emph default
 .
- Данное требование не
+ 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Данное требование не
 \begin_inset space ~
 \end_inset
 
@@ -52549,7 +54902,7 @@ name "4.3.2.5.1"
 
 оценке
 \emph default
- следует приводить полные данные о
+ необходимо приводить полные данные о
 \begin_inset space ~
 \end_inset
 
@@ -53078,7 +55431,7 @@ name "subsubsec:4.3.2.6_Valuation_date"
 \end_inset
 
 даты проведения либо завершения исследований.
- Следует проводить чёткое разграничение между этими датами там, где
+ Необходимо проводить чёткое разграничение между этими датами там, где
 \begin_inset space ~
 \end_inset
 
@@ -53086,7 +55439,7 @@ name "subsubsec:4.3.2.6_Valuation_date"
 \begin_inset space ~
 \end_inset
 
-необходимо.
+требуется.
 \end_layout
 
 \begin_layout Standard
@@ -53187,7 +55540,7 @@ name "4.3.2.6.1"
 
 оценке
 \emph default
- следует указывать 
+ необходимо указывать 
 \shape slanted
 дату оценки
 \shape default
@@ -53565,7 +55918,7 @@ name "subsubsec:4.3.2.7_Extent_of_investigation"
 
 оценку
 \emph default
-) подлежат раскрытию в
+) подлежат обязательному раскрытию в
 \begin_inset space ~
 \end_inset
 
@@ -53644,7 +55997,7 @@ name "4.3.2.7.1"
 
 оценке
 \emph default
- следует привести сведения о
+ необходимо привести сведения о
 \begin_inset space ~
 \end_inset
 
@@ -53786,7 +56139,7 @@ name "4.3.2.7.2"
 \emph on
 оценщик
 \emph default
- приводит в
+ обязан привести в
 \begin_inset space ~
 \end_inset
 
@@ -54319,7 +56672,7 @@ name "subsubsec:4.3.2.8_Nature_and_source_of_the_information"
 \begin_layout Standard
 
 \series bold
-Следует приводить сведения о
+Необходимо приводить сведения о
 \begin_inset space ~
 \end_inset
 
@@ -54754,7 +57107,7 @@ name "4.3.2.8.2"
 \begin_inset space ~
 \end_inset
 
-которым обычно может быть получен доступ), данное обстоятельство следует
+которым обычно может быть получен доступ), данное обстоятельство необходимо
  отражать в
 \begin_inset space ~
 \end_inset
@@ -54772,7 +57125,7 @@ name "4.3.2.8.2"
 \emph on
 отчёта
 \emph default
- следует отражать потребность в
+ необходимо отражать потребность в
 \begin_inset space ~
 \end_inset
 
@@ -55056,7 +57409,7 @@ name "4.3.2.8.4"
 \emph on
 оценщик
 \emph default
- обязан указать перечень сведений, требующих проверки со
+ обязан указать перечень сведений, требующих обязательной проверки со
 \begin_inset space ~
 \end_inset
 
@@ -55318,7 +57671,11 @@ name "4.3.2.9.1"
 \shape slanted
 специальные допущения
 \shape default
- приводятся в
+ в
+\begin_inset space ~
+\end_inset
+
+обязательном порядке приводятся в
 \begin_inset space ~
 \end_inset
 
@@ -55556,7 +57913,11 @@ name "4.3.2.10.1"
 \emph on
  Оценщик
 \emph default
- устанавливает и
+ в
+\begin_inset space ~
+\end_inset
+
+обязательном устанавливает и
 \begin_inset space ~
 \end_inset
 
@@ -56777,7 +59138,11 @@ name "4.3.2.10.11"
 \begin_inset space ~
 \end_inset
 
-регуляторами, принимает решение об
+регуляторами, в
+\begin_inset space ~
+\end_inset
+
+обязательном порядке принимает решение об
 \begin_inset space ~
 \end_inset
 
@@ -57468,6 +59833,86 @@ literal "false"
 \series default
 \emph default
 .
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+В
+\begin_inset space ~
+\end_inset
+
+обоих случаях необходимо включить сопроводительный текст, а
+\begin_inset space ~
+\end_inset
+
+также обоснование любых 
+\shape slanted
+отступлений
+\shape default
+ от
+\begin_inset space ~
+\end_inset
+
+требований 
+\begin_inset CommandInset href
+LatexCommand href
+name "МСО"
+target "https://www.rics.org/globalassets/rics-website/media/upholding-professional-standards/sector-standards/valuation/international-valuation-standards-rics2.pdf"
+literal "false"
+
+\end_inset
+
+
+\begin_inset space ~
+\end_inset
+
+
+\begin_inset CommandInset citation
+LatexCommand cite
+key "IVS-2020"
+literal "false"
+
+\end_inset
+
+ и
+\begin_inset space ~
+\end_inset
+
+настоящих 
+\emph on
+Всемирных стандартов
+\emph default
+.
+ 
+\shape slanted
+Отступление
+\shape default
+ не
+\begin_inset space ~
+\end_inset
+
+может считаться оправданным, если оно
+\begin_inset space ~
+\end_inset
+
+приводит к
+\begin_inset space ~
+\end_inset
+
+тому, что
+\begin_inset space ~
+\end_inset
+
+
+\shape slanted
+оценка
+\shape default
+ начинает вводить в
+\begin_inset space ~
+\end_inset
+
+заблуждение.
 \end_layout
 
 \begin_layout Standard
@@ -58191,7 +60636,7 @@ name "4.3.2.11.6"
 \emph on
 оценщику
 \emph default
- следует убедиться в
+ необходимо убедиться в
 \begin_inset space ~
 \end_inset
 
@@ -58199,7 +60644,11 @@ name "4.3.2.11.6"
 \begin_inset space ~
 \end_inset
 
+
+\shape slanted
 она
+\shape default
+
 \begin_inset space ~
 \end_inset
 
@@ -59195,7 +61644,7 @@ name "4.3.2.13.3"
 \shape slanted
 оценку
 \shape default
- следует проводить в
+ необходимо проводить в
 \begin_inset space ~
 \end_inset
 
@@ -59746,7 +62195,7 @@ name "4.3.2.13.8"
 \begin_inset space ~
 \end_inset
 
-всегда следует отражать отдельно.
+всегда необходимо отражать отдельно.
  Сальдировние подобных отрицательных стоимостей с
 \begin_inset space ~
 \end_inset
@@ -60013,6 +62462,7 @@ name "4.3.2.15.2"
 оценка
 \shape default
  является выражением профессионального 
+\emph on
 \bar under
 суждения
 \bar default
@@ -60020,7 +62470,9 @@ name "4.3.2.15.2"
 \begin_inset space ~
 \end_inset
 
-мгновенном значении стоимости конкретного 
+мгновенном значении стоимости
+\emph default
+ конкретного 
 \shape slanted
 вида
 \shape default
@@ -60056,7 +62508,11 @@ name "4.3.2.15.2"
 \shape slanted
 специальных допущениях
 \shape default
-, также включаемых в
+, также в
+\begin_inset space ~
+\end_inset
+
+обязательном порядке включаемых в
 \begin_inset space ~
 \end_inset
 
@@ -61124,7 +63580,11 @@ literal "false"
 
 \end_inset
 
-), он
+), 
+\shape slanted
+он
+\shape default
+
 \begin_inset space ~
 \end_inset
 
@@ -62048,7 +64508,7 @@ noprefix "false"
 \emph on
 оценщику
 \emph default
- следует дать чёткое определение применяемого 
+ необходимо дать чёткое определение применяемого 
 \shape slanted
 вида стоимости
 \shape default
@@ -62891,7 +65351,7 @@ name "4.4.2.3"
 \emph on
 оценщику
 \emph default
- следует чётко обозначить 
+ необходимо чётко обозначить 
 \shape slanted
 допущения
 \shape default
@@ -63064,7 +65524,7 @@ name "4.4.2.4"
 \emph on
 оценщику
 \emph default
- следует убедиться в
+ необходимо убедиться в
 \begin_inset space ~
 \end_inset
 
@@ -66420,7 +68880,7 @@ name "4.4.7.4"
 \shape slanted
 специальных допущений
 \shape default
-, подобные пересмотры подлежат обсуждению с
+, подобные пересмотры подлежат обязательному обсуждению с
 \begin_inset space ~
 \end_inset
 
@@ -68537,7 +70997,7 @@ name "4.4.9.7"
 
 \end_inset
 
- Следует отказаться от
+ Необходимо отказаться от
 \begin_inset space ~
 \end_inset
 
@@ -68823,7 +71283,7 @@ noprefix "false"
 \end_inset
 
 вероятных параметрах сделки вынужденной продажи является возможным, использовани
-е такой формулировки следует рассматривать исключительно в
+е такой формулировки необходимо рассматривать исключительно в
 \begin_inset space ~
 \end_inset
 
@@ -69503,6 +71963,22 @@ name "sec:4.4_VPS4_Bases_of_value-End"
 
 \end_layout
 
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+newpage
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Section
 Подходы к
 \begin_inset space ~
@@ -69652,7 +72128,7 @@ noprefix "false"
 \begin_inset space ~
 \end_inset
 
-всех случаях следует принимать во
+всех случаях необходимо принимать во
 \begin_inset space ~
 \end_inset
 
@@ -70727,7 +73203,7 @@ noprefix "false"
 оценке
 \shape default
 .
- Следует подчеркнуть, что, в
+ Необходимо подчеркнуть, что, в
 \begin_inset space ~
 \end_inset
 
@@ -72404,7 +74880,7 @@ literal "false"
 
 стоимости
 \emph default
- всегда следует учитывать факты и
+ всегда необходимо учитывать факты и
 \begin_inset space ~
 \end_inset
 
@@ -72567,11 +75043,11 @@ name "5.1.1.2"
 
 \end_inset
 
- Следует проявлять особую осмотрительность в
+ Необходимо проявлять особую осмотрительность в
 \begin_inset space ~
 \end_inset
 
-вопросе соответствия 
+вопросе строгого соответствия 
 \shape slanted
 оценок
 \shape default
@@ -75717,7 +78193,11 @@ noprefix "false"
 \begin_inset space ~
 \end_inset
 
-полного соответствия законодательным, нормативным и аудиторским требованиям.
+полного и
+\begin_inset space ~
+\end_inset
+
+строгого соответствия законодательным, нормативным и аудиторским требованиям.
  В
 \begin_inset space ~
 \end_inset
@@ -76899,7 +79379,7 @@ literal "false"
 \shape slanted
 Членам RICS
 \shape default
- следует помнить следующее:
+ необходимо помнить следующее:
 \end_layout
 
 \begin_layout Itemize
@@ -77781,7 +80261,11 @@ literal "false"
 \end_inset
 
 профессиональными обязательствами.
- Кроме того, они
+ Кроме того, 
+\shape slanted
+они
+\shape default
+
 \begin_inset space ~
 \end_inset
 
@@ -80075,11 +82559,23 @@ noprefix "false"
 \shape slanted
 оценки
 \shape default
- следует использовать только для
+ можно использовать исключительно в
 \begin_inset space ~
 \end_inset
 
-конкретной цели, для которой она
+тех
+\begin_inset space ~
+\end_inset
+
+конкретных целях, для
+\begin_inset space ~
+\end_inset
+
+которой 
+\shape slanted
+она
+\shape default
+
 \begin_inset space ~
 \end_inset
 
@@ -81011,7 +83507,7 @@ literal "false"
 \begin_inset space ~
 \end_inset
 
-следует предоставить 
+необходимо предоставить 
 \emph on
 оценщику
 \emph default
@@ -81074,7 +83570,11 @@ literal "false"
 \begin_inset space ~
 \end_inset
 
-сведения кредитора, включая данные о
+сведения кредитора, включая, в
+\begin_inset space ~
+\end_inset
+
+обязательном порядке, данные о
 \begin_inset space ~
 \end_inset
 
@@ -82603,7 +85103,7 @@ literal "false"
 \shape slanted
 Членам RICS
 \shape default
- следует помнить следующее:
+ необходимо помнить следующее:
 \end_layout
 
 \begin_layout Itemize
@@ -84264,7 +86764,7 @@ name "5.3.3.5"
 \emph on
 оценщику
 \emph default
- следует разработать 
+ будет необходимо разработать 
 \shape slanted
 договор
 \shape default
@@ -89669,7 +92169,7 @@ literal "false"
 \begin_inset space ~
 \end_inset
 
-этом важно внимательно проводить разграничение между:
+этом необходимо внимательно проводить разграничение между:
 \end_layout
 
 \begin_layout Itemize
@@ -90997,8 +93497,8 @@ name "5.3.7.4.3"
 \emph on
 оценщику
 \emph default
- следует избегать получения итоговой стоимости одним только сложением стоимостей
- отдельных активов или
+ необходимо избегать получения итоговой стоимости одним только сложением
+ стоимостей отдельных активов или
 \begin_inset space ~
 \end_inset
 
@@ -91097,9 +93597,9 @@ name "5.3.8.1"
 \emph default
 , 
 \emph on
-оценщику
+оценщик
 \emph default
- следует подготовить 
+ обязан подготовить 
 \emph on
 отчёт об
 \begin_inset space ~
@@ -91943,7 +94443,7 @@ literal "false"
 \shape slanted
 Членам RICS
 \shape default
- следует помнить следующее:
+ необходимо помнить следующее:
 \end_layout
 
 \begin_layout Itemize
@@ -95810,8 +98310,8 @@ name "5.4.5.2"
 
 \end_inset
 
- Однако, следует проявлять осторожность, поскольку вышеуказанное предположение
- не
+ Однако, необходимо проявлять осторожность, поскольку вышеуказанное предположени
+е не
 \begin_inset space ~
 \end_inset
 
@@ -96023,9 +98523,9 @@ status open
 \shape default
  
 \emph on
-оценщику
+оценщик
 \emph default
- следует тщательно изучить влияние отсутствия таких активов на
+ обязан тщательно изучить влияние отсутствия таких активов на
 \begin_inset space ~
 \end_inset
 
@@ -98864,7 +101364,7 @@ literal "false"
 \shape slanted
 Членам RICS
 \shape default
- следует помнить следующее:
+ необходимо помнить следующее:
 \end_layout
 
 \begin_layout Itemize
@@ -102223,7 +104723,7 @@ noprefix "false"
 \begin_inset space ~
 \end_inset
 
-обычные разумные рыночные 
+обычные строго обоснованные разумные рыночные 
 \shape slanted
 допущения
 \shape default
@@ -103459,7 +105959,7 @@ literal "false"
 \shape slanted
 Членам RICS
 \shape default
- следует помнить следующее:
+ необходимо помнить следующее:
 \end_layout
 
 \begin_layout Itemize
@@ -108607,7 +111107,7 @@ name "5.6.6.4.1"
 \shape slanted
 рыночной стоимости
 \shape default
- показатели износа следует подтверждать данными открытого рынка.
+ показатели износа необходимо подтверждать данными открытого рынка.
 \begin_inset CommandInset label
 LatexCommand label
 name "5.6.6.4.1-End"
@@ -109853,7 +112353,7 @@ name "5.6.8.1"
 \emph on
 оценщик
 \emph default
- должен подготовить 
+ обязан подготовить 
 \emph on
 отчёт
 \emph default
@@ -110423,7 +112923,11 @@ name "5.6.8.4"
 \begin_inset space ~
 \end_inset
 
-целей судебного разбирательства, он
+целей судебного разбирательства, 
+\emph on
+он
+\emph default
+
 \begin_inset space ~
 \end_inset
 
@@ -110746,7 +113250,7 @@ literal "false"
 \shape slanted
 Членам RICS
 \shape default
- следует помнить следующее:
+ необходимо помнить следующее:
 \end_layout
 
 \begin_layout Itemize
@@ -112929,7 +115433,7 @@ noprefix "false"
 \shape slanted
 допущения
 \shape default
- подлежат обсуждению и
+ подлежат обязательному обсуждению и
 \begin_inset space ~
 \end_inset
 
@@ -116353,7 +118857,7 @@ literal "false"
 \shape slanted
 Членам RICS
 \shape default
- следует помнить следующее:
+ необходимо помнить следующее:
 \end_layout
 
 \begin_layout Itemize
@@ -118021,7 +120525,7 @@ status open
 \begin_inset space ~
 \end_inset
 
-правовое положение объекта подлежит проверке со
+правовое положение объекта подлежит обязательной проверке со
 \begin_inset space ~
 \end_inset
 
@@ -121147,7 +123651,7 @@ literal "false"
 \shape slanted
 Членам RICS
 \shape default
- следует помнить следующее:
+ необходимо помнить следующее:
 \end_layout
 
 \begin_layout Itemize
@@ -123023,7 +125527,7 @@ literal "false"
 \shape slanted
 Членам RICS
 \shape default
- следует помнить следующее:
+ необходимо помнить следующее:
 \end_layout
 
 \begin_layout Itemize
