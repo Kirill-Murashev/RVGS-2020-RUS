@@ -1,0 +1,3 @@
+https://lonewolfonline.net/uploads/downloads/Solarized-Dark.xml
+TextColor = #819090
+BackgroundColor = #042029

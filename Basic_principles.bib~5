@@ -1,0 +1,290 @@
+@comment{x-kbibtex-encoding=utf-8}
+
+@www{Rolling_release_rus,
+	author = {Wikipedia},
+	title = {Rolling Release},
+	url = {https://ru.wikipedia.org/wiki/Rolling_release},
+	urldate = {2021-01-28}
+}
+
+@misc{ISO:Information_tech,
+	author = {ISO/IEC},
+	date = {2009-12-15},
+	editor = {ISO/IEC},
+	keywords = {ISO/IEC, Information, Information technology},
+	language = {English},
+	organization = {ISO/IEC},
+	title = {ISO/IEC 10746-2:2009. Information technology "— Open distributed processing "— Reference model: Foundations — Part 2},
+	type = {Standard},
+	url = {http://docs.cntd.ru/document/431871894},
+	urldate = {2021-03-01},
+	year = {2009}
+}
+
+@misc{ISO:Inf_tech_voc,
+	author = {ISO/IEC},
+	editor = {ISO/IEC},
+	language = {English},
+	organization = {ISO/EIC},
+	title = {ISO/IEC 2382:2015. Information technology — Vocabulary},
+	url = {https://www.iso.org/obp/ui/#iso:std:iso-iec:2382:ed-1:v1:en},
+	urldate = {2021-03-01},
+	year = {2015}
+}
+
+@www{Distrib:Normal,
+	author = {Machinelearning.ru},
+	title = {Нормальное распределение},
+	url = {http://www.machinelearning.ru/wiki/index.php?title=%D0%9D%D0%BE%D1%80%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D1%80%D0%B0%D1%81%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5},
+	urldate = {2021-03-02}
+}
+
+@www{Stat.test:par,
+	author = {Machinelearning.ru},
+	title = {Параметрические статистические тесты},
+	url = {http://www.machinelearning.ru/wiki/index.php?title=%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%9F%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B5_%D1%82%D0%B5%D1%81%D1%82%D1%8B},
+	urldate = {2021-03-02}
+}
+
+@www{PJSC_BSPB:official_site,
+	author = {PJSC <Bank <"Saint-Petersburg”>>< <\%l>< \%s>},
+	title = {PJSC <<Bank ,,Saint-Petersburg”>>, official site},
+	url = {https://www.bspb.ru/en/about/},
+	urldate = {2021-03-07}
+}
+
+@www{JSC_Bank_Viking:official_site,
+	author = {JSC <Bank <"Viking”>>< <\%l>< \%s>},
+	title = {JSC <<Bank ,,Viking”>> official site},
+	url = {https://www.vikingbank.ru/Viking_new2.nsf/main/en},
+	urldate = {2021-03-07}
+}
+
+@www{Tox:site,
+	author = {Tox Project},
+	title = {Tox project official site},
+	url = {https://tox.chat/},
+	urldate = {2021-03-09}
+}
+
+@www{Wiki:Tox,
+	author = {Wikipedia},
+	title = {Wikipedia: Tox protocol},
+	url = {https://en.wikipedia.org/wiki/Tox_(protocol)},
+	urldate = {2021-03-09}
+}
+
+@www{Wiki:holding,
+	author = {Wikipedia},
+	language = {Deutsch},
+	title = {Unternehmensverbindung},
+	url = {https://de.wikipedia.org/wiki/Unternehmensverbindung},
+	urldate = {2021-03-09}
+}
+
+@www{Wiki:parent_company,
+	author = {Wikipedia},
+	language = {Deutsch},
+	title = {Mutterunternehmen},
+	url = {https://de.wikipedia.org/wiki/Mutterunternehmen},
+	urldate = {2021-03-09}
+}
+
+@www{Wiki:trademark,
+	author = {Wikipedia},
+	language = {English},
+	title = {Trademark},
+	url = {https://en.wikipedia.org/wiki/Trademark},
+	urldate = {2021-03-09}
+}
+
+@www{Wiki:affiliate,
+	author = {Wikipedia},
+	language = {Русский},
+	title = {Аффилированное лицо},
+	url = {https://ru.wikipedia.org/wiki/%D0%90%D1%84%D1%84%D0%B8%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BB%D0%B8%D1%86%D0%BE},
+	urldate = {2021-03-10}
+}
+
+@www{Obychay_del,
+	author = {О. Бандык},
+	date = {09.02.2018},
+	language = {Русский},
+	title = {Обычай делового оборота},
+	url = {https://neg.by/novosti/otkrytj/obychaj-delovogo-oborota},
+	urldate = {2021-03-10},
+	year = {2018}
+}
+
+@www{Wiki:Risk_ass,
+	author = {Wikipedia},
+	language = {English},
+	title = {Risk assesment},
+	url = {https://en.wikipedia.org/wiki/Risk_assessment},
+	urldate = {2021-03-10}
+}
+
+@www{Takeover,
+	author = {Investopedia},
+	language = {English},
+	title = {Takeover},
+	url = {https://www.investopedia.com/terms/t/takeover.asp},
+	urldate = {2021-03-10}
+}
+
+@www{Investo:sustainability,
+	author = {Investopedia},
+	title = {Sustainability},
+	url = {https://www.investopedia.com/terms/s/sustainability.asp},
+	urldate = {2021-04-15}
+}
+
+@www{Wiki:sustainability,
+	author = {Wikipedia},
+	title = {Sustainability},
+	url = {https://en.wikipedia.org/wiki/Sustainability},
+	urldate = {2021-04-15}
+}
+
+@misc{EU_Green_Deal,
+	author = {European Parliament},
+	date = {2020-01-15},
+	title = {The European Green Deal},
+	url = {https://www.europarl.europa.eu/doceo/document/TA-9-2020-0005_EN.html},
+	urldate = {2021-04-15},
+	year = {2020}
+}
+
+@misc{Lisbon-Vladivostok,
+	author = {Lisbon-Vladivostok Work group},
+	title = {Initiative Lisbon-Vladivostok},
+	url = {https://lisbon-vladivostok.pro/},
+	urldate = {2021-04-15}
+}
+
+@misc{Greater_Europe_Institute,
+	author = {Institute Greater for a Europe},
+	title = {Institute for a Greater Europe official site},
+	url = {https://www.institutegreatereurope.com/},
+	urldate = {2021-04-15}
+}
+
+@www{Wiki:Greater_Europe,
+	author = {Wikipedia},
+	title = {Greater Europe},
+	url = {https://en.wikipedia.org/wiki/Greater_Europe},
+	urldate = {2021-04-15}
+}
+
+@www{Wiki:carbon_neutral,
+	author = {Wikipedia},
+	title = {Carbon neutrality},
+	url = {https://en.wikipedia.org/wiki/Carbon_neutrality},
+	urldate = {2021-04-15}
+}
+
+@comment{jabref-meta: databaseType:biblatex;}
+
+@www{Klassy_aktsiy,
+	language = Russian,
+	title = {Классы~акций},
+	url = {https://investor100.ru/chto-takoe-klassyi-aktsiy-a-b-s/},
+	urldate = {2021-06-08}
+}
+
+@www{Wiki:statute_law_rus,
+	author = {Wikipedia},
+	language = Russian,
+	title = {Статутное~право},
+	url = {https://ru.wikipedia.org/wiki/%D0%A1%D1%82%D0%B0%D1%82%D1%83%D1%82%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BE},
+	urldate = {2021-06-08}
+}
+
+@www{Wiki:common_law_rus,
+	author = {Wikipedia},
+	language = Russian,
+	title = {Общее~право},
+	url = {https://ru.wikipedia.org/wiki/%D0%9E%D0%B1%D1%89%D0%B5%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%BE},
+	urldate = {2021-06-08}
+}
+
+@www{Wiki:roman-german_law,
+	author = {Wikipedia},
+	language = Russian,
+	title = {Романо-германское~право},
+	url = {https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%D0%BE-%D0%B3%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B5%D0%BC%D1%8C%D1%8F},
+	urldate = {2021-06-08}
+}
+
+@www{Wiki:anglo-american_law,
+	author = {Wikipedia},
+	language = Russian,
+	title = {Англо-американское~право},
+	url = {https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%BE%D1%81%D0%B0%D0%BA%D1%81%D0%BE%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B5%D0%BC%D1%8C%D1%8F},
+	urldate = {2021-06-08}
+}
+
+@www{Wiki:scandinavian_law,
+	author = {Wikipedia},
+	language = Russian,
+	title = {Скандинавское~право},
+	url = {https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B3%D0%BB%D0%BE%D1%81%D0%B0%D0%BA%D1%81%D0%BE%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D0%B2%D0%B0%D1%8F_%D1%81%D0%B5%D0%BC%D1%8C%D1%8F},
+	urldate = {2021-06-08}
+}
+
+@www{Wiki:due_diligence-rus,
+	author = {Wikipedia},
+	language = Russian,
+	title = {Due~diligence~(рус.)},
+	url = {https://ru.wikipedia.org/wiki/Due_diligence},
+	urldate = {2021-06-09}
+}
+
+@www{Wiki:due_diligence-eng,
+	author = {Wikipedia},
+	language = English,
+	title = {Due~diligence~(eng)},
+	url = {https://en.wikipedia.org/wiki/Due_diligence},
+	urldate = {2021-06-09}
+}
+
+@www{Wiki:SWOT-rus,
+	author = {Wikipedia},
+	language = Russian,
+	title = {SWOT-анализ~(рус.)},
+	url = {https://ru.wikipedia.org/wiki/SWOT-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7},
+	urldate = {2021-06-09}
+}
+
+@www{Wiki:M&A-rus,
+	author = {Wikipedia},
+	language = Russian,
+	title = {M\&A-rus},
+	url = {https://ru.wikipedia.org/wiki/SWOT-%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7},
+	urldate = {2021-06-09}
+}
+
+@www{Wiki:IPO-rus,
+	author = {Wikipedia},
+	language = Russian,
+	title = {IPO-rus},
+	url = {https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B2%D0%B8%D1%87%D0%BD%D0%BE%D0%B5_%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D1%87%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%B5%D0%B4%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5},
+	urldate = {2021-06-09}
+}
+
+@www{Wiki:NDA-rus,
+	author = {Wikipedia},
+	language = Russian,
+	title = {NDA-rus},
+	url = {https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B3%D0%BB%D0%B0%D1%88%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BE_%D0%BD%D0%B5%D1%80%D0%B0%D0%B7%D0%B3%D0%BB%D0%B0%D1%88%D0%B5%D0%BD%D0%B8%D0%B8},
+	urldate = {2021-06-09}
+}
+
+@www{Wiki:P/E_ratio,
+	author = {Wikipedia},
+	language = Russian,
+	title = {P/E~ratio},
+	url = {https://en.wikipedia.org/wiki/Price%E2%80%93earnings_ratio},
+	urldate = {2021-06-09}
+}
+

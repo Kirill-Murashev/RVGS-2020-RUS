@@ -1,0 +1,203 @@
+% Encoding: UTF-8
+
+@Book{Sprav_izdat,
+  author       = {Мильчин А. Э., Чельцова Л. К.},
+  title        = {Справочник издателя и автора},
+  edition      = {5-е издание},
+  editor       = {Андреева К.},
+  location     = {Россия, Москва},
+  origlanguage = {Russian},
+  pagetotal    = {1966},
+  publisher    = {Издательство Студии Артемия Лебедева},
+  titleaddon   = {Редакционно-издательское оформление издания},
+  url          = {http://flibusta.site/b/527337},
+  urldate      = {2020-02-10},
+  comment      = {Read},
+  year         = {2018},
+}
+
+@WWW{Rus_lang_rules,
+  author       = {Н. С. Валгина, Н. А. Еськова, О. Е. Иванова, С. М. Кузьмина, В. В. Лопатин, Л. К. Чельцова},
+  editor       = {В. В. Лопатин},
+  title        = {Правила русской орфографии и пунктуации. Электронное издание.},
+  url          = {http://orthographia.ru/},
+  language     = {Russian},
+  organization = {Российская академия наук. Отделение историко-филологических наук Институт русского языка им. В.В. Виноградова.},
+  subtitle     = {Полный академичский справочник},
+  urldate      = {2020-02-17},
+  comment      = {Idle},
+  year         = {2009},
+}
+
+@Book{LaTeX_Lyvovskiy,
+  author       = {С. М. Львовский},
+  title        = {Набор и вёрстка в системе LaTeX},
+  language     = {Russian},
+  origlanguage = {Russian},
+  pagetotal    = {448},
+  titleaddon   = {3-е издание, исправленное и дополненное},
+  url          = {https://www.mccme.ru/free-books/},
+  comment      = {Read},
+  keywords     = {Tex, LaTeX},
+  year         = {2003},
+}
+
+@Book{The_TeXBook,
+  author    = {Д. Э. Кнут},
+  title     = {Всё про ТеХ},
+  editor    = {Ю. В. Козаченко},
+  isbn      = {5-8459-0382-3},
+  pagetotal = {543},
+  publisher = {Вильямс},
+  url       = {https://fr.b-ok2.org/book/1315925/ca6dd0},
+  urldate   = {2020-02-18},
+  comment   = {To Read},
+  keywords  = {TeX},
+  year      = {2003},
+}
+
+@Book{Vvedenie_v_LaTeX_2003,
+  author       = {Tobias Oetiker, Hubert Partl, Irene Hyna è Elisabeth Schlegl},
+  title        = {Не очень краткое введение в LATEX2ε},
+  language     = {Russian},
+  origlanguage = {English},
+  pages        = {153},
+  pagetotal    = {153},
+  titleaddon   = {Перевод Б. Доботрас},
+  translator   = {Б. Доботрас},
+  url          = {http://xtalk.msk.su/tex/},
+  comment      = {Read},
+  keywords     = {TeX, LaTeX},
+  year         = {2003},
+}
+
+@Book{LaTeX_i_komandy,
+  author       = {С. В. Клименко, М. В. Лисина},
+  title        = {LaTeX и его команды},
+  year         = {1996},
+  language     = {Russian},
+  origlanguage = {Russian},
+  publisher    = {Институт физики высоких энергий},
+  pagetotal    = {149},
+  url          = {https://web.tresorit.com/l#wnPs_vooudfNGWIdm3bdCQ},
+  keywords     = {TeX, LaTeX},
+}
+
+@Book{LaTeX_po_russki,
+  author       = {И. А. Котельников, П. З. Чеботаев},
+  title        = {LaTeX по-русски},
+  isbn         = {5875501952},
+  mainsubtitle = {3-е издание, перераб. и доп.},
+  pages        = {493},
+  publisher    = {Sibirskiy Khronograf},
+  url          = {https://www.amazon.com/John-Lasco-Earlier-Life-Labou/dp/5875501952?SubscriptionId=AKIAIOBINVZYXZQZ2U3A&tag=chimbori05-20&linkCode=xm2&camp=2025&creative=165953&creativeASIN=5875501952},
+  comment      = {Read},
+  year         = {2004},
+}
+
+@Book{LaTeX_in_Examples,
+  author       = {К. В. Воронцов},
+  title        = {LaTeX2e в примерх},
+  origlanguage = {Russian},
+  pagetotal    = {59},
+  url          = {https://web.tresorit.com/l#64-_yznLOVQMcUPX48BvDQ},
+  comment      = {Read},
+  keywords     = {LaTeX, TeX, LaTeX2e},
+  year         = {2005},
+}
+
+@Book{Comp_typog_LaTeX,
+  author       = {Е. М. Балдин},
+  title        = {Компьютерная типография LaTeX},
+  year         = {2008, 2012, 2013},
+  language     = {Russian},
+  origlanguage = {Russian},
+  edition      = {Компьютерные TeXнологии},
+  location     = {Novosibirsk},
+  pagetotal    = {308},
+  url          = {https://web.tresorit.com/l#yxGSueq69oTA3EPI0U8YrA},
+  abstract     = {Read},
+  keywords     = {TeX, LaTeX, LaTeX2e},
+}
+
+@Article{Siutkin:Color-in-LaTeX,
+  author       = {В. Сюткин},
+  title        = {Цвет в LaTeX2e},
+  language     = {Russian},
+  origlanguage = {Russian},
+  pages        = {8},
+  comment      = {To read},
+  keywords     = {Tex, LaTeX},
+  year         = {2001},
+}
+
+@WWW{TeX:site,
+  author       = {CTAN team},
+  title        = {TeX official site},
+  url          = {https://www.ctan.org/},
+  language     = {English},
+  organization = {CTAN Team},
+  urldate      = {2020-11-15},
+  keywords     = {TeX},
+}
+
+@WWW{LaTeX:site,
+  author   = {LaTeX team},
+  title    = {LaTeX official site},
+  url      = {https://www.latex-project.org/},
+  language = {English},
+  urldate  = {2020-11-15},
+}
+
+@WWW{TeXLive:site,
+  title   = {TeXLive official site},
+  url     = {https://www.tug.org/texlive/},
+  urldate = {2020-11-15},
+}
+
+@WWW{TeXstudio:site,
+  author  = {Benito van der Zander},
+  title   = {TeXstusio official site},
+  url     = {https://www.texstudio.org/},
+  urldate = {2020-11-15},
+}
+
+@WWW{Lyx:site,
+  title   = {LyX official site},
+  url     = {https://www.lyx.org/},
+  urldate = {2021-01-28},
+}
+
+@WWW{CM_font,
+  author  = {Wikipedia},
+  title   = {Computer Modern font},
+  url     = {https://ru.wikipedia.org/wiki/Computer_Modern},
+  urldate = {2021-01-28},
+}
+
+@WWW{CR_font,
+  author  = {Wikipedia},
+  title   = {Concrete font},
+  url     = {https://ru.wikipedia.org/wiki/Concrete_Roman},
+  urldate = {2021-01-28},
+}
+
+@WWW{Solarized_dark_theme,
+  title   = {Solarized Dark theme},
+  url     = {https://lonewolfonline.net/uploads/downloads/Solarized-Dark.xml},
+  urldate = {2021-01-28},
+}
+
+@WWW{KOMA-Script,
+  author  = {Markus Kohm},
+  title   = {koma-script – A bundle of versatile classes and packages},
+  year    = {1994--2020},
+  url     = {https://ctan.org/pkg/koma-script},
+  urldate = {2021-01-28},
+}
+
+@Comment{jabref-meta: databaseType:biblatex;}
+
+databaseType:biblatex;}
+eType:biblatex;}
+x;}

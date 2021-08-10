@@ -1,0 +1,19 @@
+% Encoding: UTF-8
+
+@WWW{RVGS-Rus-TeX-source-res,
+  author   = {Kirill A. Murashev},
+  title    = {RICS Valuation "---~Global Standrards 2020. Russian translation.},
+  date     = {2020-05-26},
+  url      = {hhttps://web.tresorit.com/l/eatYN#JeNaEjs8gkl9uHKgop4OnA},
+  language = {TeX},
+}
+
+@WWW{RVGS-Rus-TeX-source,
+  author   = {Kirill A. Murashev},
+  title    = {RICS Valuation "---~Global Standrards 2020. Russian translation.},
+  date     = {2020-05-26},
+  url      = {hhttps://web.tresorit.com/l/eatYN#JeNaEjs8gkl9uHKgop4OnA},
+  language = {TeX},
+}
+
+@Comment{jabref-meta: databaseType:biblatex;}
