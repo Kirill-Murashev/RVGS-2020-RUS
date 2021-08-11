@@ -800,7 +800,7 @@ literal "false"
 \begin_inset space ~
 \end_inset
 
-ссылке
+
 \begin_inset CommandInset href
 LatexCommand href
 name "ссылке"
@@ -958,7 +958,7 @@ literal "false"
 \begin_inset CommandInset href
 LatexCommand href
 name "ссылке"
-target "Ошибся со ссылкой. Вот верная: https://web.tresorit.com/l/oFpJF#xr3UGoxLvszsn4vAaHtjqw"
+target "https://web.tresorit.com/l/oFpJF#xr3UGoxLvszsn4vAaHtjqw"
 literal "false"
 
 \end_inset
@@ -1900,55 +1900,15 @@ name "tab:version_history"
 
 \begin_layout Plain Layout
 \begin_inset Tabular
-<lyxtabular version="3" rows="1" columns="5">
+<lyxtabular version="3" rows="1" columns="1">
 <features tabularvalignment="middle">
 <column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
 <row>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-№
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Номер версии
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Дата
-\end_layout
-
-\end_inset
-</cell>
-<cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-Автор
-\end_layout
-
-\end_inset
-</cell>
 <cell alignment="center" valignment="top" topline="true" bottomline="true" leftline="true" rightline="true" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
-Описание
+
 \end_layout
 
 \end_inset
@@ -1967,6 +1927,10 @@ name "tab:version_history"
 
 \end_inset
 
+
+\end_layout
+
+\begin_layout Standard
 
 \end_layout
 
