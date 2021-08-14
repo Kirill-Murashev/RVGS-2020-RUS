@@ -1,0 +1,820 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {russian}{}
+\babel@toc {english}{}
+\babel@toc {russian}{}
+\babel@toc {english}{}
+\babel@toc {russian}{}
+\babel@toc {english}{}
+\babel@toc {russian}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{\numberline {I}Всемирные стандарты оценки RICS}{26}{part.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1.}Введение}{27}{chapter.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.1.\relax }Основные цели}{27}{section.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1.2.\relax }Область применения}{29}{section.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.1.\relax }С~точки зрения лица, оказывающего услуги по~оценке}{29}{subsection.1.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.2.\relax }С~точки зрения пользователя услуг по~оценке}{29}{subsection.1.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.3.\relax }Внутренняя организация и~статус настоящих стандартов}{30}{subsection.1.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.3.1.\relax }Стандарты профессиональной деятельности "--- обязательны к~применению}{30}{subsubsection.1.2.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.3.2.\relax }Стандарты проведения оценки и~подготовки отчёта об~оценке "--- обязательны к~применению}{31}{subsubsection.1.2.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.3.3.\relax }Практические руководства по~оценке приложения "--- имеют рекомендательный характер}{32}{subsubsection.1.2.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.3.4.\relax }Национальные либо территориальные стандарты оценки}{33}{subsubsection.1.2.3.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.4.\relax }Дата вступление в~силу настоящих стандартов, срок их~действия и~порядок внесения поправок к~ним}{33}{subsection.1.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.4.1.\relax }Дата вступления в~силу настоящих стандартов}{33}{subsubsection.1.2.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.4.2.\relax }Актуальность текста настоящих стандартов}{33}{subsubsection.1.2.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.4.3.\relax }Внесение изменений и~размещение предварительных версий}{34}{subsubsection.1.2.4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {1.2.5.\relax }Статус МСО в~разрезе настоящих стандартов}{34}{subsection.1.2.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {1.2.5.1.\relax }Дата вступления в~силу, срок действия и~внесение поправок в~МСО}{34}{subsubsection.1.2.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2.}Глоссарий}{36}{chapter.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1.\relax }Глоссарий терминов RICS}{36}{section.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2.\relax }Пояснение наименований стандартов и~практических руководств}{42}{section.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3.}Стандарты профессиональной деятельности (далее --- СПД)}{44}{chapter.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1.\relax }СПД 1.~Соответствие настоящим стандартам при~подготовке письменного отчёта об~оценке}{44}{section.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.1.\relax }Обязательное применение}{44}{subsection.3.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.2.\relax }Соблюдение стандартов оценщиками, работающими по~найму}{46}{subsection.3.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.3.\relax }Соответствие международным стандартам}{47}{subsection.3.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.1.3.1.\relax }Международные стандарты оценки}{47}{subsubsection.3.1.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.1.3.2.\relax }Международные стандарты этики}{48}{subsubsection.3.1.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.1.3.3.\relax }Международные стандарты оценки собственности}{48}{subsubsection.3.1.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.4.\relax }Соответствие национальным и~иным стандартам оценки}{48}{subsection.3.1.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.5.\relax }Исключения из~СПО 1--5}{49}{subsection.3.1.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.6.\relax }Отступления от~требований настоящих стандартов}{52}{subsection.3.1.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.7.\relax }Регулирование: контроль за соблюдением настоящих стандартов}{53}{subsection.3.1.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1.8.\relax }Применимость настоящих стандартов для~членов других профессиональных сообществ оценщиков}{54}{subsection.3.1.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2.\relax }СПД~2.~Этика, компетентность, объективность и~раскрытие информации}{55}{section.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.1.\relax }Профессиональные и~этические стандарты}{55}{subsection.3.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.2.\relax }Квалификация членов RICS}{57}{subsection.3.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.3.\relax }Независимость, объективность, конфиденциальность, выявление и~урегулирование конфликтов интересов}{59}{subsection.3.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.4.\relax }Обеспечение строгого разделения между консультантами}{63}{subsection.3.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.5.\relax }Раскрытие информации при~общественном интересе либо для~информирования третьей стороны}{64}{subsection.3.2.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.5.1.\relax }Требования к~раскрытию информации}{64}{subsubsection.3.2.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.5.2.\relax }Использование результатов оценки третьими сторонами}{65}{subsubsection.3.2.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.5.3.\relax }Отношения с~клиентом и~прежнее сотрудничество}{66}{subsubsection.3.2.5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.5.4.\relax }Политика ротации}{68}{subsubsection.3.2.5.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.5.5.\relax }Период пребывания в~статусе подписанта отчётов об~оценке}{69}{subsubsection.3.2.5.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.5.6.\relax }Предшествующее сотрудничество}{70}{subsubsection.3.2.5.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.5.7.\relax }Доля выручки}{71}{subsubsection.3.2.5.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.2.5.8.\relax }Иные случаи раскрытия информации}{71}{subsubsection.3.2.5.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.6.\relax }Рецензирование отчётов об~оценке, выполненных другими оценщиками}{72}{subsection.3.2.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.7.\relax }Условия договора на~проведение оценки (задания на~оценку)}{73}{subsection.3.2.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2.8.\relax }Ответственность за~оценку}{74}{subsection.3.2.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4.}Стандарты проведения оценки и~подготовки отчёта об~оценке (СПО)}{76}{chapter.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1.\relax }СПО 1. Условия договора на~проведение оценки (Задания на\_оценку)}{77}{section.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.1.\relax }Основные принципы}{77}{subsection.4.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.2.\relax }Формат договора на~проведение оценки}{78}{subsection.4.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.3.\relax }Условия договора на~проведения оценки (Задания на~оценку)}{78}{subsection.4.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.1.3.1.\relax }Сведения об~оценщике и~его~статусе}{80}{subsubsection.4.1.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.1.3.2.\relax }Сведения о~Заказчике}{81}{subsubsection.4.1.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.1.3.3.\relax }Сведения об~иных предполагаемых пользователях результатов оценки}{82}{subsubsection.4.1.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.1.3.4.\relax }Сведения об~оцениваемом активе (активах) или~обязательстве (обязательствах)}{82}{subsubsection.4.1.3.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.1.3.5.\relax }Валюта оценки}{84}{subsubsection.4.1.3.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.1.3.6.\relax }Цель оценки}{84}{subsubsection.4.1.3.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.1.3.7.\relax }Вид~(виды) определяемой стоимости}{85}{subsubsection.4.1.3.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.1.3.8.\relax }Дата оценки}{85}{subsubsection.4.1.3.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.1.3.9.\relax }Характер и~объём работы оценщика, в~т.\tmspace +\thinmuskip {.1667em}ч.~объём исследований и~любые ограничения в~этой области}{86}{subsubsection.4.1.3.9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.1.3.10.\relax }Характер и~источники информации, используемой оценщиком}{87}{subsubsection.4.1.3.10}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.1.3.11.\relax }Необходимые допущения и~специальные допущения}{88}{subsubsection.4.1.3.11}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.1.3.12.\relax }Содержание отчёта об~оценке}{89}{subsubsection.4.1.3.12}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.1.3.13.\relax }Ограничения на~использование, распространение и~публикацию отчёта об~оценке}{90}{subsubsection.4.1.3.13}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.1.3.14.\relax }Подтверждение того, что~оценка будет проводиться в~соответствии с~требованиями МСО}{90}{subsubsection.4.1.3.14}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.1.3.15.\relax }Определение размера вознаграждения за~проведение оценки}{91}{subsubsection.4.1.3.15}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.1.3.16.\relax }Ссылка на~процедуру рассмотрения жалоб фирмой, зарегистрированной для~регулирования со~стороны RICS, позволяющую получить копию результатов её~рассмотрения}{92}{subsubsection.4.1.3.16}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.1.3.17.\relax }Заявление о~том, что~соблюдение данных стандартов может быть предметом контроля в~соответствии с~правилами поведения и~дисциплинарными нормами RICS}{92}{subsubsection.4.1.3.17}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.1.3.18.\relax }Заявление, содержащее согласованные условия ограничения ответственности}{92}{subsubsection.4.1.3.18}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2.\relax }СПО 2. Осмотры, исследования и~фиксация их~результатов}{94}{section.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.1.\relax }Осмотры и~исследования}{94}{subsection.4.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.2.\relax }Переоценка ранее оцениваемого недвижимого имущества без~осмотра}{97}{subsection.4.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.3.\relax }Протоколирование исследований оценщика}{98}{subsection.4.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3.\relax }СПО 3. Требования к~содержанию отчёта об~оценке}{100}{section.4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.1.\relax }Основные принципы}{100}{subsection.4.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.2.\relax }Содержание отчёта об~оценке}{101}{subsection.4.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.2.1.\relax }Сведения об~оценщике}{103}{subsubsection.4.3.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.2.2.\relax }Сведения о~заказчике и~иных предполагаемых пользователях результатов проведения оценки}{104}{subsubsection.4.3.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.2.3.\relax }Цель проведения оценки}{105}{subsubsection.4.3.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.2.4.\relax }Сведения об~оцениваемом активе~(активах) либо обязательстве~(обязательствах)}{105}{subsubsection.4.3.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.2.5.\relax }Вид(ы) определяемой стоимости}{106}{subsubsection.4.3.2.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.2.6.\relax }Дата оценки}{107}{subsubsection.4.3.2.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.2.7.\relax }Объём исследований}{108}{subsubsection.4.3.2.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.2.8.\relax }Используемые оценщиком информация и~данные и~их~источники}{109}{subsubsection.4.3.2.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.2.9.\relax }Допущения и~специальные допущения}{110}{subsubsection.4.3.2.9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.2.10.\relax }Ограничения на~использование, распространение и~публикацию отчёта об~оценке}{110}{subsubsection.4.3.2.10}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.2.11.\relax }Подтверждение факта проведения оценки в~соответствии с~МСО}{113}{subsubsection.4.3.2.11}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.2.12.\relax }Подходы к~оценке и~аргументация}{114}{subsubsection.4.3.2.12}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.2.13.\relax }Величина определённой оценщиком стоимости~(стоимостей)}{115}{subsubsection.4.3.2.13}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.2.14.\relax }Дата отчёта об~оценке}{116}{subsubsection.4.3.2.14}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.2.15.\relax }Комментарии, затрагивающие вопросы существенной неопределённости, необходимые для~обеспечения ясности для~пользователей результатов оценки}{117}{subsubsection.4.3.2.15}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.2.16.\relax }Положение о~согласованных ограничениях ответственности}{118}{subsubsection.4.3.2.16}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.4.\relax }СПО 4. Виды стоимости, допущения и~специальные допущения}{119}{section.4.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.1.\relax }Основные принципы}{119}{subsection.4.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.2.\relax }Виды стоимости}{121}{subsection.4.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.3.\relax }Рыночная стоимость}{121}{subsection.4.4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.4.\relax }Рыночная арендная плата}{123}{subsection.4.4.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.5.\relax }Инвестиционная стоимость}{124}{subsection.4.4.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.6.\relax }Справедливая стоимость}{124}{subsection.4.4.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.7.\relax }Допущения}{125}{subsection.4.4.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.8.\relax }Специальные допущения}{126}{subsection.4.4.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.9.\relax }Оценки, отражающие существующие или~предполагаемые ограничения оборотоспособности объекта оценки либо вынужденность продажи}{129}{subsection.4.4.9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.10.\relax }Допущения и~специальные допущения, связанные с~прогнозной стоимостью}{131}{subsection.4.4.10}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.5.\relax }Подходы к~оценке и~её методы}{133}{section.4.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5.}Практические руководства по~оценке}{136}{chapter.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.0.1.\relax }Введение}{136}{subsection.5.0.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1.\relax }ПР~1.~Оценка для~целей финансовой отчётности}{138}{section.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.1.\relax }Область применения}{138}{subsection.5.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.2.\relax }Проведение оценки согласно МСФО}{139}{subsection.5.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.3.\relax }Оценка стоимости активов государственного сектора в~соответствии с~Международными стандартами учёта в~государственном секторе с~}{139}{subsection.5.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.4.\relax }Иные случаи}{139}{subsection.5.1.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.5.\relax }Стандарты исполнения}{139}{subsection.5.1.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.1.5.1.\relax }Общие требования}{139}{subsubsection.5.1.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.1.5.2.\relax }Профессионализм и~компетентность}{140}{subsubsection.5.1.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.1.5.3.\relax }Условия договора на~проведение оценки}{140}{subsubsection.5.1.5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.1.5.4.\relax }Источники и~проверка информации и~данных}{141}{subsubsection.5.1.5.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.1.5.5.\relax }Работа с~документами и~ведение записей}{142}{subsubsection.5.1.5.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.1.5.6.\relax }Отчёты об~оценке}{142}{subsubsection.5.1.5.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.2.\relax }ПР~2. Оценка прав на~имущество в~целях залогового кредитования}{144}{section.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.1.\relax }Область применения}{144}{subsection.5.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.2.\relax }Справочная информация}{144}{subsection.5.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.3.\relax }Независимость, объективность и~конфликты интересов}{145}{subsection.5.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.4.\relax }Принятие задания в~работу и~раскрытие информации}{148}{subsection.5.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.5.\relax }Виды стоимости и~специальные допущения}{149}{subsection.5.2.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.6.\relax }Подготовка отчёта об~оценке и~раскрытие информации}{150}{subsection.5.2.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.3.\relax }ПР~3.~Оценка бизнеса и~долей в~нём}{156}{section.5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.1.\relax }Область применения}{156}{subsection.5.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.2.\relax }Введение}{156}{subsection.5.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.3.\relax }Задание на~оценку и~условия договора на~проведение оценки}{157}{subsection.5.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.4.\relax }Бизнес и~доли в~нём}{158}{subsection.5.3.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.5.\relax }Информация и~данные}{161}{subsection.5.3.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.6.\relax }Оценочные исследования}{162}{subsection.5.3.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.7.\relax }Подходы к~оценке и~её~методы}{164}{subsection.5.3.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.3.7.1.\relax }Рыночный~(сравнительный) подход в~оценке бизнеса}{165}{subsubsection.5.3.7.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.3.7.2.\relax }Доходный подход}{166}{subsubsection.5.3.7.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.3.7.3.\relax }Затратный подход}{168}{subsubsection.5.3.7.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.3.7.4.\relax }Метод чистых активов}{169}{subsubsection.5.3.7.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.8.\relax }Составление отчёта об~оценке стоимости предприятия~(бизнеса)}{170}{subsection.5.3.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.9.\relax }Конфиденциальность}{171}{subsection.5.3.9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.4.\relax }ПР~4. Оценка специализированной недвижимости }{172}{section.5.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.1.\relax }Основная информация}{172}{subsection.5.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.2.\relax }Термины}{173}{subsection.5.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.4.2.1.\relax }Нормализованная чистая прибыль}{174}{subsubsection.5.4.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.4.2.2.\relax }Прибыль до~уплаты процентов, налога на~прибыль, износа и~амортизации~(EBITDA)}{174}{subsubsection.5.4.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.4.2.3.\relax }Справедливая устойчивая операционная прибыль~(FMOP)}{174}{subsubsection.5.4.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.4.2.4.\relax }Справедливый устойчивый оборот~(FMT)}{174}{subsubsection.5.4.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.4.2.5.\relax }Рыночная арендная плата}{175}{subsubsection.5.4.2.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.4.2.6.\relax }Рыночная стоимость}{175}{subsubsection.5.4.2.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.4.2.7.\relax }Компания "--- оператор объекта недвижимости}{175}{subsubsection.5.4.2.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.4.2.8.\relax }Персональный гудвилл текущей компании-оператора}{175}{subsubsection.5.4.2.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.4.2.9.\relax }Разумно эффективный оператор~(REO)}{176}{subsubsection.5.4.2.9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.4.2.10.\relax }Капитал арендатора}{176}{subsubsection.5.4.2.10}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.4.2.11.\relax }Специализированный объект недвижимости}{176}{subsubsection.5.4.2.11}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.4.2.12.\relax }Коммерческий потенциал}{176}{subsubsection.5.4.2.12}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.3.\relax }Методы доходного подхода в~оценке специализированной недвижимости}{176}{subsection.5.4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.4.\relax }Специальные допущения }{178}{subsection.5.4.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.5.\relax }Методы оценки объектов недвижимости полностью оснащённых для~ведения деятельности}{179}{subsection.5.4.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.6.\relax }Определение коммерческого потенциала}{180}{subsection.5.4.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.7.\relax }Оценка неиспользуемых объектов недвижимости}{181}{subsection.5.4.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.8.\relax }Распределение стоимости}{182}{subsection.5.4.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.9.\relax }Оценка для~инвестиционных целей}{183}{subsection.5.4.9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.5.\relax }ПР~5. Оценка машин и~оборудования}{184}{section.5.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.5.1.\relax }Область применения}{184}{subsection.5.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.5.2.\relax }Основная информация}{184}{subsection.5.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.5.3.\relax }Машины и~оборудование, стоимость которых, как~правило, учитывается в~составе объекта недвижимости}{186}{subsection.5.5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.5.4.\relax }Машины и~оборудование, оцениваемые отдельно}{187}{subsection.5.5.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.5.5.\relax }Машины и~оборудование, являющиеся объектами договоров финансирования, лизинга и~залога}{188}{subsection.5.5.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.5.6.\relax }Иные существенные соображения}{189}{subsection.5.5.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.5.7.\relax }Вопросы регулирования производственной деятельности}{191}{subsection.5.5.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.6.\relax }ПР~6. Оценка нематериальных активов}{193}{section.5.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.6.1.\relax }Область применения}{193}{subsection.5.6.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.6.2.\relax }Введение}{193}{subsection.5.6.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.6.3.\relax }Условия договора на~проведение оценки}{195}{subsection.5.6.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.6.4.\relax }Концептуальная основа оценки}{196}{subsection.5.6.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.6.5.\relax }Оценочный аудит}{197}{subsection.5.6.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.6.6.\relax }Подходы к~оценке}{199}{subsection.5.6.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.6.6.1.\relax }Общие сведения}{199}{subsubsection.5.6.6.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.6.6.2.\relax }Сравнительный подход}{200}{subsubsection.5.6.6.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.6.6.3.\relax }Доходный подход}{201}{subsubsection.5.6.6.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.6.6.4.\relax }Затратный подход}{202}{subsubsection.5.6.6.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.6.7.\relax }Методы приведённой стоимости}{202}{subsection.5.6.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.6.8.\relax }Составление отчёта об~оценке}{205}{subsection.5.6.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.6.9.\relax }Конфиденциальность}{206}{subsection.5.6.9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.7.\relax }ПР~7. Оценка личной собственности, в~т.\tmspace +\thinmuskip {.1667em}ч.~предметов искусства и~антиквариата}{207}{section.5.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.7.1.\relax }Введение и~область применения}{207}{subsection.5.7.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.7.2.\relax }Условия договора на~проведение оценки}{209}{subsection.5.7.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.7.3.\relax }Определение сегмента рынка}{209}{subsection.5.7.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.7.4.\relax }Осмотр, исследования и~анализ}{210}{subsection.5.7.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.7.5.\relax }Процесс оценки}{211}{subsection.5.7.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.7.5.1.\relax }Подходы к~оценке и~их~реализация}{211}{subsubsection.5.7.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {5.7.5.1.1.\relax }Подход сравнения продаж}{211}{paragraph.5.7.5.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {5.7.5.1.2.\relax }The cost approach}{212}{paragraph.5.7.5.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {5.7.5.1.3.\relax }Доходный подход}{212}{paragraph.5.7.5.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {5.7.5.1.4.\relax }Выводы, являющиеся общими для~всех подходов}{213}{paragraph.5.7.5.1.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.7.5.2.\relax }Иные соображения, касающиеся оценки личной собственности}{213}{subsubsection.5.7.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.7.6.\relax }Содержание отчёта об~оценке}{214}{subsection.5.7.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.8.\relax }ПР~8.~Оценка недвижимого имущества и~прав на~него}{216}{section.5.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.8.1.\relax }Осмотр}{216}{subsection.5.8.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.8.2.\relax }Исследования и~допущения}{218}{subsection.5.8.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.8.2.1.\relax }Права на~оцениваемый объект}{219}{subsubsection.5.8.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.8.2.2.\relax }Состояние зданий}{219}{subsubsection.5.8.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.8.2.3.\relax }Инженерное обеспечение}{220}{subsubsection.5.8.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.8.2.4.\relax }Градостроительное зонирование и~территориальное планирование}{220}{subsubsection.5.8.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.8.2.5.\relax }Вопросы защиты окружающей среды}{220}{subsubsection.5.8.2.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {5.8.2.5.1.\relax }Природные экологические ограничения}{221}{paragraph.5.8.2.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {5.8.2.5.2.\relax }Экологические ограничения неприродного характера (загрязнения и~опасные вещества)}{221}{paragraph.5.8.2.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {5.8.2.5.3.\relax }Устойчивое развитие "--- определение его~влияния на~стоимость}{222}{paragraph.5.8.2.5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.9.\relax }ПР~9. Выявление портфелей, коллекций и~групп активов и~имущества}{225}{section.5.9}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.9.1.\relax }Область применения}{225}{subsection.5.9.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.9.2.\relax }Примеры случаев, когда бывает необходимо введение допущения о~единой группе}{225}{subsection.5.9.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.9.3.\relax }Цель оценки и~идентификация лотов в~составе портфеля}{226}{subsection.5.9.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.10.\relax }ПР~10.~Причины возникновения существенной неопределённости оценки}{228}{section.5.10}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.10.1.\relax }Область применения}{228}{subsection.5.10.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.10.2.\relax }Примеры}{228}{subsection.5.10.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.10.3.\relax }Требования к~содержанию отчёта об~оценке}{229}{subsection.5.10.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {part}{\numberline {II}Международные стандарты оценки}{232}{part.2}%
+\babel@toc {english}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1.}Introduction}{235}{chapter.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2.}Glossary}{238}{chapter.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1.\relax }Overview of Glossary}{238}{section.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2.\relax }Defined Terms}{238}{section.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3.}IVS Framework}{241}{chapter.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1.\relax }Compliance with Standards}{241}{section.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2.\relax }Assets and Liabilities}{241}{section.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.3.\relax }Valuer}{241}{section.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.4.\relax }Objectivity}{242}{section.3.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.5.\relax }Competence}{242}{section.3.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.6.\relax }Departures}{242}{section.3.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4.}General Standards}{244}{chapter.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1.\relax }IVS 101. Scope of Work}{244}{section.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.1.\relax }Introduction}{244}{subsection.4.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.2.\relax }General Requirements}{244}{subsection.4.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1.3.\relax }Changes to Scope of Work}{247}{subsection.4.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.2.\relax }IVS 102 Investigations and Compliance}{247}{section.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.1.\relax }General Principle}{247}{subsection.4.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.2.\relax }Investigations}{247}{subsection.4.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.3.\relax }Valuation Record}{248}{subsection.4.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2.4.\relax }Compliance with Other Standards}{248}{subsection.4.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.3.\relax }IVS 103. Reporting}{249}{section.4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.1.\relax }Introduction}{249}{subsection.4.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.2.\relax }General Requirements}{249}{subsection.4.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.3.\relax }Valuation Reports}{250}{subsection.4.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3.4.\relax }Valuation Review Reports}{250}{subsection.4.3.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.4.\relax }IVS 104. Bases of Value}{251}{section.4.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.1.\relax }Introduction}{251}{subsection.4.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.2.\relax }Bases of Value}{252}{subsection.4.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.4.2.1.\relax }IVS-Defined Bases of Value}{253}{subsubsection.4.4.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {4.4.2.1.1.\relax }Market Value}{253}{paragraph.4.4.2.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {4.4.2.1.2.\relax }Market Rent}{255}{paragraph.4.4.2.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {4.4.2.1.3.\relax }Equitable Value}{256}{paragraph.4.4.2.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {4.4.2.1.4.\relax }Investment Value/Worth}{257}{paragraph.4.4.2.1.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {4.4.2.1.5.\relax }Synergistic Value}{257}{paragraph.4.4.2.1.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {4.4.2.1.6.\relax }Liquidation Value}{257}{paragraph.4.4.2.1.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.4.2.2.\relax }Other Bases of Value}{258}{subsubsection.4.4.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {4.4.2.2.1.\relax }Fair Value}{258}{paragraph.4.4.2.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {4.4.2.2.2.\relax }Fair Market Value}{258}{paragraph.4.4.2.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {4.4.2.2.3.\relax }Fair Market Value}{258}{paragraph.4.4.2.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {4.4.2.2.4.\relax }Fair Value}{258}{paragraph.4.4.2.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.3.\relax }Premise of Value/Assumed Use}{259}{subsection.4.4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.4.3.1.\relax }Highest and Best Use}{259}{subsubsection.4.4.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.4.3.2.\relax }Current Use/Existing Use}{260}{subsubsection.4.4.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.4.3.3.\relax }Orderly Liquidation}{260}{subsubsection.4.4.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.4.3.4.\relax }Forced Sale}{260}{subsubsection.4.4.3.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.4.\relax }Entity-Specific Factors}{261}{subsection.4.4.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.5.\relax }Synergies}{262}{subsection.4.4.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.6.\relax }Assumptions and Special Assumptions}{262}{subsection.4.4.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4.7.\relax }Transaction Costs}{263}{subsection.4.4.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.5.\relax }IVS 105. Valuation Approaches and Methods}{264}{section.4.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.5.1.\relax }Introduction}{264}{subsection.4.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.5.2.\relax }Market Approach}{265}{subsection.4.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.5.3.\relax }Market Approach Methods}{267}{subsection.4.5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.5.3.1.\relax }Comparable Transactions Method}{267}{subsubsection.4.5.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.5.3.2.\relax }Guideline publicly-traded comparable method}{269}{subsubsection.4.5.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.5.3.3.\relax }Other Market Approach Considerations}{271}{subsubsection.4.5.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.5.4.\relax }Income Approach}{272}{subsection.4.5.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.5.5.\relax }Income Approach Methods}{273}{subsection.4.5.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.5.5.1.\relax }Discounted Cash Flow (DCF) Method }{273}{subsubsection.4.5.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {4.5.5.1.1.\relax }Type of Cash Flow}{274}{paragraph.4.5.5.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {4.5.5.1.2.\relax }Explicit Forecast Period}{275}{paragraph.4.5.5.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {4.5.5.1.3.\relax }Cash Flow Forecasts}{276}{paragraph.4.5.5.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {4.5.5.1.4.\relax }Terminal Value}{277}{paragraph.4.5.5.1.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subparagraph}{\numberline {4.5.5.1.4.1.\relax }Gordon Growth Model/Constant Growth Model}{278}{subparagraph.4.5.5.1.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subparagraph}{\numberline {4.5.5.1.4.2.\relax }Market Approach/Exit Value }{278}{subparagraph.4.5.5.1.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subparagraph}{\numberline {4.5.5.1.4.3.\relax }Salvage Value/Disposal Cost}{278}{subparagraph.4.5.5.1.4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {4.5.5.1.5.\relax }Discount Rate}{278}{paragraph.4.5.5.1.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.5.6.\relax }Cost Approach}{281}{subsection.4.5.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.5.7.\relax }Cost Approach Methods}{282}{subsection.4.5.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.5.7.1.\relax }Replacement Cost Method}{283}{subsubsection.4.5.7.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.5.7.2.\relax }Reproduction Cost Method}{283}{subsubsection.4.5.7.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.5.7.3.\relax }Summation Method}{284}{subsubsection.4.5.7.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.5.7.4.\relax }Cost Considerations}{284}{subsubsection.4.5.7.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.5.7.5.\relax }Depreciation/Obsolescence}{285}{subsubsection.4.5.7.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.5.7.6.\relax }Valuation Model}{287}{subsubsection.4.5.7.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5.}Asset Standards}{288}{chapter.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.1.\relax }IVS 200. Businesses and Business Interests}{288}{section.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.1.\relax }Overview}{288}{subsection.5.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.2.\relax }Introduction}{288}{subsection.5.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.3.\relax }Bases of Value}{289}{subsection.5.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.4.\relax }Valuation Approaches and Methods}{289}{subsection.5.1.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.1.4.1.\relax }Market Approach}{290}{subsubsection.5.1.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.1.4.2.\relax }Income Approach}{290}{subsubsection.5.1.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.1.4.3.\relax }Cost Approach}{292}{subsubsection.5.1.4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1.5.\relax }Special Considerations for Businesses and Business Interests}{293}{subsection.5.1.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.1.5.1.\relax }Ownership Rights}{293}{subsubsection.5.1.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.1.5.2.\relax }Business Information}{294}{subsubsection.5.1.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.1.5.3.\relax }Economic and Industry Considerations}{295}{subsubsection.5.1.5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.1.5.4.\relax }Operating and Non-Operating Assets}{295}{subsubsection.5.1.5.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.1.5.5.\relax }Capital Structure Considerations}{296}{subsubsection.5.1.5.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {5.1.5.5.1.\relax }Current Value Method (CVM)}{298}{paragraph.5.1.5.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {5.1.5.5.2.\relax }Option Pricing Method (OPM)}{298}{paragraph.5.1.5.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {5.1.5.5.3.\relax }Probability-Weighted Expected Return Method (PWERM)}{300}{paragraph.5.1.5.5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.2.\relax }IVS 210. Intangible Assets}{301}{section.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.1.\relax }Overview}{301}{subsection.5.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.2.\relax }Introduction}{301}{subsection.5.2.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.3.\relax }Bases of Value}{303}{subsection.5.2.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.4.\relax }Valuation Approaches and Methods}{304}{subsection.5.2.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.2.4.1.\relax }Market Approach}{304}{subsubsection.5.2.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.2.4.2.\relax }Income Approach}{305}{subsubsection.5.2.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {5.2.4.2.1.\relax }Income Approach Methods}{306}{paragraph.5.2.4.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subparagraph}{\numberline {5.2.4.2.1.1.\relax }Excess Earnings Method}{306}{subparagraph.5.2.4.2.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subparagraph}{\numberline {5.2.4.2.1.2.\relax }Relief-from-Royalty Method}{308}{subparagraph.5.2.4.2.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subparagraph}{\numberline {5.2.4.2.1.3.\relax }With-and-Without Method}{310}{subparagraph.5.2.4.2.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subparagraph}{\numberline {5.2.4.2.1.4.\relax }Greenfield Method}{312}{subparagraph.5.2.4.2.1.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subparagraph}{\numberline {5.2.4.2.1.5.\relax }Distributor Method}{312}{subparagraph.5.2.4.2.1.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.2.4.3.\relax }Cost Approach}{313}{subsubsection.5.2.4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2.5.\relax }Special Considerations for Intangible Assets}{315}{subsection.5.2.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.2.5.1.\relax }Discount Rates/Rates of Return for Intangible Assets}{315}{subsubsection.5.2.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.2.5.2.\relax }Intangible Asset Economic Lives}{316}{subsubsection.5.2.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.2.5.3.\relax }Tax Amortization Benefit (TAB)}{318}{subsubsection.5.2.5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.3.\relax }IVS 220. Non-Financial Liabilities}{319}{section.5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.1.\relax }Overview}{319}{subsection.5.3.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.2.\relax }Introduction}{319}{subsection.5.3.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.3.\relax }Bases of Value}{321}{subsection.5.3.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.4.\relax }Valuation Approaches and Methods}{321}{subsection.5.3.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.3.4.1.\relax }Market Approach}{322}{subsubsection.5.3.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.3.4.2.\relax }Market Approach Methods}{323}{subsubsection.5.3.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {5.3.4.2.1.\relax }Top-Down Method}{323}{paragraph.5.3.4.2.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.3.4.3.\relax }Income Approach}{324}{subsubsection.5.3.4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.3.4.4.\relax }Income Approach Methods}{324}{subsubsection.5.3.4.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {5.3.4.4.1.\relax }Bottom-Up Method}{324}{paragraph.5.3.4.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.3.4.5.\relax }Cost Approach}{325}{subsubsection.5.3.4.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3.5.\relax }Special Considerations for Non-Financial}{326}{subsection.5.3.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.3.5.1.\relax }Discount rates for Non-Financial Liabilities}{326}{subsubsection.5.3.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.3.5.2.\relax }Estimating Cash Flows and Risk Margins}{326}{subsubsection.5.3.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.3.5.3.\relax }Restrictions on transfers}{329}{subsubsection.5.3.5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.3.5.4.\relax }Taxes}{329}{subsubsection.5.3.5.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.4.\relax }IVS 300. Plant and Equipment}{329}{section.5.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.1.\relax }Overview}{329}{subsection.5.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.2.\relax }Introduction}{330}{subsection.5.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.3.\relax }Bases of Value}{333}{subsection.5.4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.4.\relax }Valuation Approaches and Methods}{334}{subsection.5.4.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.4.4.1.\relax }Market Approach}{334}{subsubsection.5.4.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.4.4.2.\relax }Income Approach}{334}{subsubsection.5.4.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.4.4.3.\relax }Cost Approach}{335}{subsubsection.5.4.4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.4.4.4.\relax }Cost-to-Capacity Method}{336}{subsubsection.5.4.4.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4.5.\relax }Special Considerations for Plant and Equipment}{336}{subsection.5.4.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.4.5.1.\relax }Financing Arrangements}{336}{subsubsection.5.4.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.5.\relax }IVS 400. Real Property Interests}{337}{section.5.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.5.1.\relax }Overview}{337}{subsection.5.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.5.2.\relax }Introduction}{337}{subsection.5.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.5.3.\relax }Bases of Value}{339}{subsection.5.5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.5.4.\relax }Valuation Approaches and Methods}{339}{subsection.5.5.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.5.4.1.\relax }Market Approach}{339}{subsubsection.5.5.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.5.4.2.\relax }Income Approach}{341}{subsubsection.5.5.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.5.4.3.\relax }Cost Approach}{342}{subsubsection.5.5.4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.5.5.\relax }Special Considerations for Real Property Interests}{342}{subsection.5.5.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.5.5.1.\relax }Hierarchy of Interests}{343}{subsubsection.5.5.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.5.5.2.\relax }Rent}{343}{subsubsection.5.5.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.6.\relax }IVS 410. Development Property}{344}{section.5.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.6.1.\relax }Overview}{344}{subsection.5.6.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.6.2.\relax }Introduction}{344}{subsection.5.6.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.6.3.\relax }Bases of Value}{345}{subsection.5.6.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.6.4.\relax }Valuation Approaches and Methods}{346}{subsection.5.6.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.6.4.1.\relax }Market Approach}{347}{subsubsection.5.6.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.6.4.2.\relax }Income Approach}{347}{subsubsection.5.6.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.6.4.3.\relax }Cost Approach}{348}{subsubsection.5.6.4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.6.5.\relax }Special Considerations for a Development Property}{348}{subsection.5.6.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.6.5.1.\relax }Residual Method}{348}{subsubsection.5.6.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {5.6.5.1.1.\relax }Value of Completed Property}{350}{paragraph.5.6.5.1.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {5.6.5.1.2.\relax }Construction Costs}{350}{paragraph.5.6.5.1.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {5.6.5.1.3.\relax }Consultants’ Fees}{351}{paragraph.5.6.5.1.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {5.6.5.1.4.\relax }Marketing Costs}{351}{paragraph.5.6.5.1.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {5.6.5.1.5.\relax }Timetable}{352}{paragraph.5.6.5.1.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {5.6.5.1.6.\relax }Finance Costs}{352}{paragraph.5.6.5.1.6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {5.6.5.1.7.\relax }Development Profit}{352}{paragraph.5.6.5.1.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {paragraph}{\numberline {5.6.5.1.8.\relax }Discount Rate}{354}{paragraph.5.6.5.1.8}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.6.5.2.\relax }Existing Asset}{354}{subsubsection.5.6.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.6.5.3.\relax }Special Considerations for Financial Reporting}{355}{subsubsection.5.6.5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.6.5.4.\relax }Special Considerations for Secured Lending}{356}{subsubsection.5.6.5.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5.7.\relax }IVS 500. Financial Instruments}{356}{section.5.7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.7.1.\relax }Overview}{356}{subsection.5.7.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.7.2.\relax }Introduction}{356}{subsection.5.7.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.7.3.\relax }Bases of Value}{359}{subsection.5.7.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.7.4.\relax }Valuation Approaches and Methods}{359}{subsection.5.7.4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.7.4.1.\relax }Market Approach}{360}{subsubsection.5.7.4.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.7.4.2.\relax }Income Approach}{360}{subsubsection.5.7.4.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.7.4.3.\relax }Cost Approach}{361}{subsubsection.5.7.4.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.7.5.\relax }Special Considerations for Financial Instruments}{361}{subsection.5.7.5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.7.5.1.\relax }Valuation Inputs}{362}{subsubsection.5.7.5.1}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.7.5.2.\relax }Credit Risk Adjustments}{363}{subsubsection.5.7.5.2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.7.5.3.\relax }Liquidity and Market Activity}{365}{subsubsection.5.7.5.3}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.7.5.4.\relax }Valuation Control and Objectivity}{365}{subsubsection.5.7.5.4}%
+\babel@toc {russian}{}
