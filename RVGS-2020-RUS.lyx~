@@ -1258,10 +1258,20 @@ literal "false"
 \begin_inset space ~
 \end_inset
 
-
+0.1 
 \begin_inset CommandInset ref
-LatexCommand vref
+LatexCommand vpageref
 reference "tab:version_history"
+plural "false"
+caps "false"
+noprefix "false"
+
+\end_inset
+
+–
+\begin_inset CommandInset ref
+LatexCommand pageref
+reference "tab:version_history-End"
 plural "false"
 caps "false"
 noprefix "false"
@@ -1873,6 +1883,16 @@ CNHT: 0x885e0b0E0bDCFE48750Be534f284EFfbEf6d247C
 \end_layout
 
 \begin_layout Standard
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:version_history"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset Tabular
 <lyxtabular version="3" rows="36" columns="5">
 <features islongtable="true" firstHeadBottomDL="true" headBottomDL="true" longtabularalignment="center">
@@ -1891,13 +1911,6 @@ CNHT: 0x885e0b0E0bDCFE48750Be534f284EFfbEf6d247C
 \begin_layout Plain Layout
 История версия перевода
 \end_layout
-
-\end_inset
-
-
-\begin_inset CommandInset label
-LatexCommand label
-name "tab:version_history"
 
 \end_inset
 
@@ -3593,6 +3606,16 @@ KAM
 </cell>
 </row>
 </lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset label
+LatexCommand label
+name "tab:version_history-End"
 
 \end_inset
 
