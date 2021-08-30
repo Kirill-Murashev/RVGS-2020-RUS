@@ -158,7 +158,7 @@ status open
 \end_layout
 
 \begin_layout Title
-Версия 0.1911.513
+Версия 0.1911.514
 \end_layout
 
 \begin_layout Subtitle
@@ -262,7 +262,7 @@ thesection
 \end_layout
 
 \begin_layout Left Footer
-0.1911.513
+0.1911.514
 \end_layout
 
 \begin_layout Center Footer
@@ -509,7 +509,7 @@ literal "false"
 
 \begin_inset CommandInset href
 LatexCommand href
-name "официальном сайте"
+name "официальном сайте RICS"
 target "https://www.rics.org/eu/"
 literal "false"
 
@@ -828,7 +828,7 @@ literal "false"
 \begin_inset space ~
 \end_inset
 
-подготовки данной материала использовался 
+подготовки данного материала использовался 
 \begin_inset CommandInset href
 LatexCommand href
 name "язык"
@@ -1155,7 +1155,16 @@ literal "false"
 \begin_inset space ~
 \end_inset
 
-части согласования слов внутри него.
+части, касающейся согласования слов внутри них.
+ Иногда данное решение применяется и
+\begin_inset space ~
+\end_inset
+
+в
+\begin_inset space ~
+\end_inset
+
+отношении нескольких предложений.
 \end_layout
 
 \begin_layout Standard
@@ -1827,44 +1836,7 @@ literal "false"
 
 \end_inset
 
-;
-\end_layout
-
-\begin_layout Standard
-Реквизиты для
-\begin_inset space ~
-\end_inset
-
-оказания помощи проекту.
-\end_layout
-
-\begin_layout Standard
-Тинькоф: +79219597644
-\end_layout
-
-\begin_layout Standard
-BTC: bc1qjzwtk3hc7ft9cf2a3u77cxfklgnw93jktyjfsl?time=1627474534&exp=86400
-\end_layout
-
-\begin_layout Standard
-ETH: 
-\end_layout
-
-\begin_layout Standard
-Monero: 45ho 6Na3 dzoW DwYp 4ebD BXBr 6CuC F9L5 NGCD ccpa w2W4 W15a fiMM
- dGmf dhnp e6hP JSXk 9Mwm o9Up kh3a ek96 LFEa BZYX zGQ
-\end_layout
-
-\begin_layout Standard
-USDT: 0x885e0b0E0bDCFE48750Be534f284EFfbEf6d247C
-\end_layout
-
-\begin_layout Standard
-EURT: 0x885e0b0E0bDCFE48750Be534f284EFfbEf6d247C
-\end_layout
-
-\begin_layout Standard
-CNHT: 0x885e0b0E0bDCFE48750Be534f284EFfbEf6d247C
+.
 \end_layout
 
 \begin_layout Standard
@@ -1909,7 +1881,7 @@ name "tab:version_history"
 \begin_inset Caption Standard
 
 \begin_layout Plain Layout
-История версия перевода
+История версий перевода
 \end_layout
 
 \end_inset
@@ -3422,7 +3394,7 @@ KAM
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+030
 \end_layout
 
 \end_inset
@@ -3431,7 +3403,7 @@ KAM
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+0.1911.514
 \end_layout
 
 \end_inset
@@ -3440,7 +3412,7 @@ KAM
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+2021-08-30
 \end_layout
 
 \end_inset
@@ -3449,7 +3421,7 @@ KAM
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+KAM
 \end_layout
 
 \end_inset
@@ -3458,7 +3430,7 @@ KAM
 \begin_inset Text
 
 \begin_layout Plain Layout
-
+Исправление ошибок
 \end_layout
 
 \end_inset
@@ -5080,6 +5052,10 @@ noprefix "false"
 \begin_inset space ~
 \end_inset
 
+раздел
+\begin_inset space ~
+\end_inset
+
 
 \begin_inset CommandInset ref
 LatexCommand vref
@@ -5132,8 +5108,8 @@ noprefix "false"
 \end_layout
 
 \begin_layout Standard
-RVGS/RBG отражает растущее значение успешного сочетания профессиональных
- стандартов, стандартов проведения 
+RVGS/RBG отражает растущее значение успешного сочетания стандартов осуществления
+ профессиональной деятельности, стандартов проведения 
 \shape slanted
 оценки
 \shape default
@@ -5245,7 +5221,11 @@ literal "false"
 \begin_inset space ~
 \end_inset
 
-интерпретации исходной информации, анализа их
+интерпретации исходных информации и
+\begin_inset space ~
+\end_inset
+
+данных, анализа их
 \begin_inset space ~
 \end_inset
 
@@ -5279,7 +5259,11 @@ status open
 \begin_inset space ~
 \end_inset
 
-недвижимости, 
+
+\shape slanted
+недвижимости
+\shape default
+, 
 \begin_inset ERT
 status open
 
@@ -5293,7 +5277,7 @@ status open
 
 \end_inset
 
- признание растущего влияния вопросов 
+ признания растущего влияния вопросов 
 \begin_inset CommandInset href
 LatexCommand href
 name "устойчивого развития"
